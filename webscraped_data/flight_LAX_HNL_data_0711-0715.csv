@@ -1,0 +1,1894 @@
+Price,Company Name,Stops,Duration,Destination,From,Date
+$256,United Airlines,nonstop,5h 38m,HNL,LAX,2023-07-11
+$315,United Airlines,nonstop,5h 30m,HNL,LAX,2023-07-11
+$393,United Airlines,nonstop,5h 40m,HNL,LAX,2023-07-11
+$379,Alaska Airlines,nonstop,6h 10m,HNL,LAX,2023-07-11
+$450,Delta,nonstop,5h 45m,HNL,LAX,2023-07-11
+$476,American Airlines,nonstop,5h 55m,HNL,LAX,2023-07-11
+$316,United Airlines,1 stop,8h 24m,HNL,LAX,2023-07-11
+$318,United Airlines,1 stop,8h 30m,HNL,LAX,2023-07-11
+$380,United Airlines,1 stop,8h 26m,HNL,LAX,2023-07-11
+$400,United Airlines,1 stop,8h 48m,HNL,LAX,2023-07-11
+$396,United Airlines,1 stop,8h 45m,HNL,LAX,2023-07-11
+$296,United Airlines,1 stop,10h 41m,HNL,LAX,2023-07-11
+$431,American Airlines,1 stop,8h 55m,HNL,LAX,2023-07-11
+$375,United Airlines,1 stop,9h 57m,HNL,LAX,2023-07-11
+$375,United Airlines,1 stop,10h 14m,HNL,LAX,2023-07-11
+$481,American Airlines,1 stop,8h 30m,HNL,LAX,2023-07-11
+$481,American Airlines,1 stop,8h 32m,HNL,LAX,2023-07-11
+$681,Delta,nonstop,5h 36m,HNL,LAX,2023-07-11
+$679,American Airlines,nonstop,5h 47m,HNL,LAX,2023-07-11
+$431,American Airlines,1 stop,9h 38m,HNL,LAX,2023-07-11
+$481,American Airlines,1 stop,8h 57m,HNL,LAX,2023-07-11
+$481,American Airlines,1 stop,9h 10m,HNL,LAX,2023-07-11
+$386,United Airlines,1 stop,10h 51m,HNL,LAX,2023-07-11
+$395,United Airlines,1 stop,11h 00m,HNL,LAX,2023-07-11
+$481,American Airlines,1 stop,9h 40m,HNL,LAX,2023-07-11
+$395,United Airlines,1 stop,11h 16m,HNL,LAX,2023-07-11
+$375,United Airlines,1 stop,11h 53m,HNL,LAX,2023-07-11
+$395,United Airlines,1 stop,11h 36m,HNL,LAX,2023-07-11
+$565,American Airlines,1 stop,8h 55m,HNL,LAX,2023-07-11
+$411,United Airlines,1 stop,11h 34m,HNL,LAX,2023-07-11
+$356,Alaska Airlines,1 stop,10h 10m,HNL,LAX,2023-07-11
+$395,Hawaiian Airlines,1 stop,9h 10m,HNL,LAX,2023-07-11
+$367,Alaska Airlines,1 stop,9h 40m,HNL,LAX,2023-07-11
+$539,"United Airlines, Hawaiian Airlines",1 stop,7h 29m,HNL,LAX,2023-07-11
+$431,American Airlines,1 stop,8h 55m,HNL,LAX,2023-07-11
+$539,"United Airlines, Hawaiian Airlines",1 stop,7h 46m,HNL,LAX,2023-07-11
+$539,"United Airlines, Hawaiian Airlines",1 stop,7h 49m,HNL,LAX,2023-07-11
+$539,"United Airlines, Hawaiian Airlines",1 stop,7h 50m,HNL,LAX,2023-07-11
+$375,United Airlines,1 stop,9h 57m,HNL,LAX,2023-07-11
+$481,American Airlines,1 stop,8h 30m,HNL,LAX,2023-07-11
+$481,American Airlines,1 stop,8h 32m,HNL,LAX,2023-07-11
+$375,United Airlines,1 stop,10h 14m,HNL,LAX,2023-07-11
+$375,United Airlines,1 stop,10h 22m,HNL,LAX,2023-07-11
+$395,Hawaiian Airlines,1 stop,10h 03m,HNL,LAX,2023-07-11
+$431,American Airlines,1 stop,9h 38m,HNL,LAX,2023-07-11
+$276,Hawaiian Airlines,1 stop,12h 23m,HNL,LAX,2023-07-11
+$481,American Airlines,1 stop,8h 57m,HNL,LAX,2023-07-11
+$478,"United Airlines, Hawaiian Airlines",1 stop,9h 00m,HNL,LAX,2023-07-11
+$539,"United Airlines, Hawaiian Airlines",1 stop,8h 05m,HNL,LAX,2023-07-11
+$353,Alaska Airlines,1 stop,11h 15m,HNL,LAX,2023-07-11
+$295,Alaska Airlines,1 stop,11h 50m,HNL,LAX,2023-07-11
+$481,American Airlines,1 stop,9h 10m,HNL,LAX,2023-07-11
+$386,United Airlines,1 stop,10h 51m,HNL,LAX,2023-07-11
+$375,United Airlines,1 stop,11h 05m,HNL,LAX,2023-07-11
+$406,Hawaiian Airlines,1 stop,10h 39m,HNL,LAX,2023-07-11
+$356,Alaska Airlines,1 stop,11h 44m,HNL,LAX,2023-07-11
+$395,United Airlines,1 stop,11h 00m,HNL,LAX,2023-07-11
+$539,"United Airlines, Hawaiian Airlines",1 stop,8h 37m,HNL,LAX,2023-07-11
+$481,American Airlines,1 stop,9h 40m,HNL,LAX,2023-07-11
+$539,"United Airlines, Hawaiian Airlines",1 stop,8h 40m,HNL,LAX,2023-07-11
+$539,"United Airlines, Hawaiian Airlines",1 stop,8h 44m,HNL,LAX,2023-07-11
+$395,United Airlines,1 stop,11h 16m,HNL,LAX,2023-07-11
+$497,"United Airlines, Alaska Airlines",1 stop,9h 00m,HNL,LAX,2023-07-11
+$539,"United Airlines, Hawaiian Airlines",1 stop,8h 53m,HNL,LAX,2023-07-11
+$375,United Airlines,1 stop,11h 53m,HNL,LAX,2023-07-11
+$295,Alaska Airlines,1 stop,12h 45m,HNL,LAX,2023-07-11
+$539,"United Airlines, Hawaiian Airlines",1 stop,9h 05m,HNL,LAX,2023-07-11
+$406,Hawaiian Airlines,1 stop,11h 24m,HNL,LAX,2023-07-11
+$395,United Airlines,1 stop,11h 36m,HNL,LAX,2023-07-11
+$539,"United Airlines, Hawaiian Airlines",1 stop,9h 09m,HNL,LAX,2023-07-11
+$539,"United Airlines, Hawaiian Airlines",1 stop,9h 20m,HNL,LAX,2023-07-11
+$565,American Airlines,1 stop,8h 55m,HNL,LAX,2023-07-11
+$411,United Airlines,1 stop,11h 34m,HNL,LAX,2023-07-11
+$645,Hawaiian Airlines,1 stop,7h 36m,HNL,LAX,2023-07-11
+$375,United Airlines,1 stop,12h 16m,HNL,LAX,2023-07-11
+$382,JetBlue,1 stop,12h 20m,HNL,LAX,2023-07-11
+$400,Alaska Airlines,2 stops,11h 40m,HNL,LAX,2023-07-11
+$539,"United Airlines, Hawaiian Airlines",1 stop,9h 39m,HNL,LAX,2023-07-11
+$481,American Airlines,1 stop,10h 39m,HNL,LAX,2023-07-11
+$431,American Airlines,1 stop,11h 31m,HNL,LAX,2023-07-11
+$356,Alaska Airlines,1 stop,12h 20m,HNL,LAX,2023-07-11
+$539,"United Airlines, Hawaiian Airlines",1 stop,9h 48m,HNL,LAX,2023-07-11
+$343,United Airlines,2 stops,12h 52m,HNL,LAX,2023-07-11
+$317,Alaska Airlines,1 stop,13h 18m,HNL,LAX,2023-07-11
+$460,Alaska Airlines,1 stop,11h 30m,HNL,LAX,2023-07-11
+$539,"United Airlines, Hawaiian Airlines",1 stop,10h 13m,HNL,LAX,2023-07-11
+$343,United Airlines,2 stops,13h 17m,HNL,LAX,2023-07-11
+$406,Hawaiian Airlines,1 stop,12h 39m,HNL,LAX,2023-07-11
+$356,Alaska Airlines,1 stop,13h 04m,HNL,LAX,2023-07-11
+$481,American Airlines,1 stop,11h 24m,HNL,LAX,2023-07-11
+$539,"United Airlines, Hawaiian Airlines",1 stop,10h 38m,HNL,LAX,2023-07-11
+$645,Hawaiian Airlines,1 stop,8h 50m,HNL,LAX,2023-07-11
+$395,United Airlines,1 stop,13h 06m,HNL,LAX,2023-07-11
+$539,"United Airlines, Hawaiian Airlines",1 stop,10h 49m,HNL,LAX,2023-07-11
+$375,United Airlines,1 stop,13h 41m,HNL,LAX,2023-07-11
+$539,"United Airlines, Hawaiian Airlines",1 stop,10h 55m,HNL,LAX,2023-07-11
+$343,United Airlines,2 stops,14h 00m,HNL,LAX,2023-07-11
+$395,United Airlines,1 stop,13h 33m,HNL,LAX,2023-07-11
+$497,"United Airlines, Alaska Airlines",1 stop,11h 15m,HNL,LAX,2023-07-11
+$375,United Airlines,1 stop,13h 55m,HNL,LAX,2023-07-11
+$420,Alaska Airlines,2 stops,12h 50m,HNL,LAX,2023-07-11
+$565,American Airlines,1 stop,10h 40m,HNL,LAX,2023-07-11
+$340,Alaska Airlines,2 stops,14h 15m,HNL,LAX,2023-07-11
+$645,Hawaiian Airlines,1 stop,9h 22m,HNL,LAX,2023-07-11
+$295,Alaska Airlines,1 stop,14h 55m,HNL,LAX,2023-07-11
+$539,"United Airlines, Hawaiian Airlines",1 stop,11h 18m,HNL,LAX,2023-07-11
+$561,"United Airlines, Hawaiian Airlines",1 stop,9h 35m,HNL,LAX,2023-07-11
+$356,Alaska Airlines,1 stop,14h 05m,HNL,LAX,2023-07-11
+$356,Alaska Airlines,1 stop,14h 09m,HNL,LAX,2023-07-11
+$349,Alaska Airlines,2 stops,13h 58m,HNL,LAX,2023-07-11
+$349,Alaska Airlines,2 stops,13h 58m,HNL,LAX,2023-07-11
+$395,United Airlines,1 stop,14h 01m,HNL,LAX,2023-07-11
+$561,"United Airlines, Hawaiian Airlines",1 stop,11h 20m,HNL,LAX,2023-07-11
+$645,Hawaiian Airlines,1 stop,9h 50m,HNL,LAX,2023-07-11
+$481,American Airlines,1 stop,12h 39m,HNL,LAX,2023-07-11
+$340,Alaska Airlines,2 stops,14h 15m,HNL,LAX,2023-07-11
+$293,United Airlines,2 stops,15h 16m,HNL,LAX,2023-07-11
+$395,United Airlines,1 stop,14h 28m,HNL,LAX,2023-07-11
+$481,American Airlines,1 stop,13h 03m,HNL,LAX,2023-07-11
+$400,Alaska Airlines,2 stops,14h 05m,HNL,LAX,2023-07-11
+$373,Alaska Airlines,2 stops,14h 05m,HNL,LAX,2023-07-11
+$294,United Airlines,1 stop,16h 42m,HNL,LAX,2023-07-11
+$384,United Airlines,2 stops,14h 39m,HNL,LAX,2023-07-11
+$439,Alaska Airlines,2 stops,13h 19m,HNL,LAX,2023-07-11
+$356,Alaska Airlines,1 stop,15h 04m,HNL,LAX,2023-07-11
+$317,Alaska Airlines,1 stop,15h 43m,HNL,LAX,2023-07-11
+$334,United Airlines,1 stop,16h 11m,HNL,LAX,2023-07-11
+$400,Alaska Airlines,2 stops,14h 05m,HNL,LAX,2023-07-11
+$570,Alaska Airlines,2 stops,11h 48m,HNL,LAX,2023-07-11
+$360,Alaska Airlines,2 stops,15h 25m,HNL,LAX,2023-07-11
+$365,Alaska Airlines,2 stops,15h 25m,HNL,LAX,2023-07-11
+$481,American Airlines,1 stop,13h 47m,HNL,LAX,2023-07-11
+$393,Alaska Airlines,2 stops,14h 28m,HNL,LAX,2023-07-11
+$599,Alaska Airlines,2 stops,11h 30m,HNL,LAX,2023-07-11
+$676,Hawaiian Airlines,1 stop,10h 33m,HNL,LAX,2023-07-11
+$295,Alaska Airlines,1 stop,16h 40m,HNL,LAX,2023-07-11
+$600,"United Airlines, Alaska Airlines",1 stop,11h 30m,HNL,LAX,2023-07-11
+$293,United Airlines,2 stops,16h 55m,HNL,LAX,2023-07-11
+$332,Alaska Airlines,1 stop,16h 05m,HNL,LAX,2023-07-11
+$411,Alaska Airlines,2 stops,14h 30m,HNL,LAX,2023-07-11
+$294,United Airlines,1 stop,17h 37m,HNL,LAX,2023-07-11
+$349,Alaska Airlines,2 stops,15h 43m,HNL,LAX,2023-07-11
+$690,Delta,1 stop,10h 57m,HNL,LAX,2023-07-11
+$340,Alaska Airlines,2 stops,16h 40m,HNL,LAX,2023-07-11
+$343,United Airlines,2 stops,16h 36m,HNL,LAX,2023-07-11
+$312,Alaska Airlines,2 stops,16h 40m,HNL,LAX,2023-07-11
+$294,United Airlines,1 stop,18h 03m,HNL,LAX,2023-07-11
+$534,Alaska Airlines,2 stops,13h 34m,HNL,LAX,2023-07-11
+$534,Alaska Airlines,2 stops,13h 34m,HNL,LAX,2023-07-11
+$481,American Airlines,1 stop,14h 46m,HNL,LAX,2023-07-11
+$395,United Airlines,1 stop,16h 16m,HNL,LAX,2023-07-11
+$481,American Airlines,1 stop,14h 52m,HNL,LAX,2023-07-11
+$334,United Airlines,1 stop,17h 37m,HNL,LAX,2023-07-11
+$317,Alaska Airlines,1 stop,17h 43m,HNL,LAX,2023-07-11
+$337,Alaska Airlines,2 stops,17h 05m,HNL,LAX,2023-07-11
+$337,Alaska Airlines,2 stops,17h 05m,HNL,LAX,2023-07-11
+$676,Hawaiian Airlines,1 stop,11h 40m,HNL,LAX,2023-07-11
+$548,"United Airlines, Alaska Airlines",2 stops,13h 05m,HNL,LAX,2023-07-11
+$340,Alaska Airlines,2 stops,16h 40m,HNL,LAX,2023-07-11
+$640,American Airlines,2 stops,12h 05m,HNL,LAX,2023-07-11
+$481,American Airlines,1 stop,15h 14m,HNL,LAX,2023-07-11
+$395,United Airlines,1 stop,16h 53m,HNL,LAX,2023-07-11
+$688,American Airlines,1 stop,11h 58m,HNL,LAX,2023-07-11
+$365,Alaska Airlines,2 stops,16h 40m,HNL,LAX,2023-07-11
+$530,Alaska Airlines,2 stops,14h 25m,HNL,LAX,2023-07-11
+$530,Alaska Airlines,2 stops,14h 25m,HNL,LAX,2023-07-11
+$540,"United Airlines, Alaska Airlines",1 stop,14h 05m,HNL,LAX,2023-07-11
+$393,Alaska Airlines,1 stop,17h 19m,HNL,LAX,2023-07-11
+$564,American Airlines,2 stops,13h 50m,HNL,LAX,2023-07-11
+$356,Alaska Airlines,1 stop,17h 14m,HNL,LAX,2023-07-11
+$272,Alaska Airlines,1 stop,18h 40m,HNL,LAX,2023-07-11
+$350,Alaska Airlines,2 stops,17h 05m,HNL,LAX,2023-07-11
+$676,Hawaiian Airlines,1 stop,12h 26m,HNL,LAX,2023-07-11
+$570,Alaska Airlines,2 stops,13h 58m,HNL,LAX,2023-07-11
+$769,United Airlines,1 stop,10h 55m,HNL,LAX,2023-07-11
+$640,American Airlines,2 stops,12h 48m,HNL,LAX,2023-07-11
+$640,American Airlines,2 stops,12h 50m,HNL,LAX,2023-07-11
+$395,United Airlines,1 stop,15h 55m,HNL,LAX,2023-07-11
+$548,"United Airlines, Alaska Airlines",2 stops,14h 00m,HNL,LAX,2023-07-11
+$605,"United Airlines, Alaska Airlines",2 stops,13h 07m,HNL,LAX,2023-07-11
+$609,"United Airlines, Alaska Airlines",2 stops,13h 07m,HNL,LAX,2023-07-11
+$640,American Airlines,2 stops,13h 13m,HNL,LAX,2023-07-11
+$323,Alaska Airlines,2 stops,18h 40m,HNL,LAX,2023-07-11
+$323,Alaska Airlines,2 stops,18h 40m,HNL,LAX,2023-07-11
+$564,American Airlines,2 stops,14h 35m,HNL,LAX,2023-07-11
+$690,Delta,1 stop,12h 53m,HNL,LAX,2023-07-11
+$755,United Airlines,1 stop,11h 52m,HNL,LAX,2023-07-11
+$561,"United Airlines, Hawaiian Airlines",1 stop,14h 55m,HNL,LAX,2023-07-11
+$373,Alaska Airlines,2 stops,17h 43m,HNL,LAX,2023-07-11
+$373,Alaska Airlines,2 stops,17h 43m,HNL,LAX,2023-07-11
+$318,Alaska Airlines,2 stops,18h 40m,HNL,LAX,2023-07-11
+$605,"United Airlines, Alaska Airlines",2 stops,13h 50m,HNL,LAX,2023-07-11
+$380,Alaska Airlines,1 stop,18h 44m,HNL,LAX,2023-07-11
+$401,United Airlines,2 stops,15h 55m,HNL,LAX,2023-07-11
+$300,United Airlines,1 stop,20h 09m,HNL,LAX,2023-07-11
+$537,"United Airlines, Alaska Airlines",1 stop,13h 59m,HNL,LAX,2023-07-11
+$640,American Airlines,2 stops,13h 56m,HNL,LAX,2023-07-11
+$401,United Airlines,2 stops,17h 32m,HNL,LAX,2023-07-11
+$336,Alaska Airlines,2 stops,18h 40m,HNL,LAX,2023-07-11
+$640,American Airlines,2 stops,14h 05m,HNL,LAX,2023-07-11
+$300,United Airlines,1 stop,20h 29m,HNL,LAX,2023-07-11
+$356,Alaska Airlines,1 stop,18h 59m,HNL,LAX,2023-07-11
+"$1,185",American Airlines,nonstop,5h 46m,HNL,LAX,2023-07-11
+$341,United Airlines,1 stop,20h 02m,HNL,LAX,2023-07-11
+$564,American Airlines,2 stops,15h 50m,HNL,LAX,2023-07-11
+$343,United Airlines,2 stops,19h 45m,HNL,LAX,2023-07-11
+$300,United Airlines,1 stop,20h 55m,HNL,LAX,2023-07-11
+$395,United Airlines,1 stop,19h 08m,HNL,LAX,2023-07-11
+$408,Alaska Airlines,2 stops,18h 40m,HNL,LAX,2023-07-11
+$343,United Airlines,2 stops,19h 55m,HNL,LAX,2023-07-11
+$537,"United Airlines, Alaska Airlines",1 stop,16h 39m,HNL,LAX,2023-07-11
+$300,United Airlines,1 stop,21h 15m,HNL,LAX,2023-07-11
+$438,United Airlines,1 stop,18h 35m,HNL,LAX,2023-07-11
+$583,"United Airlines, Alaska Airlines",1 stop,14h 24m,HNL,LAX,2023-07-11
+$605,"United Airlines, Alaska Airlines",2 stops,15h 24m,HNL,LAX,2023-07-11
+$545,"United Airlines, Alaska Airlines",2 stops,16h 25m,HNL,LAX,2023-07-11
+$478,"United Airlines, Hawaiian Airlines",1 stop,16h 25m,HNL,LAX,2023-07-11
+$548,"United Airlines, Alaska Airlines",2 stops,16h 25m,HNL,LAX,2023-07-11
+$395,United Airlines,1 stop,18h 25m,HNL,LAX,2023-07-11
+$554,"United Airlines, Alaska Airlines",2 stops,16h 25m,HNL,LAX,2023-07-11
+$384,United Airlines,2 stops,19h 57m,HNL,LAX,2023-07-11
+$343,United Airlines,2 stops,20h 43m,HNL,LAX,2023-07-11
+$350,United Airlines,2 stops,20h 40m,HNL,LAX,2023-07-11
+$567,"United Airlines, Alaska Airlines",2 stops,16h 25m,HNL,LAX,2023-07-11
+$300,United Airlines,1 stop,22h 00m,HNL,LAX,2023-07-11
+$509,"United Airlines, Hawaiian Airlines",1 stop,16h 20m,HNL,LAX,2023-07-11
+$600,"United Airlines, Alaska Airlines",1 stop,16h 24m,HNL,LAX,2023-07-11
+$561,"United Airlines, Hawaiian Airlines",1 stop,17h 09m,HNL,LAX,2023-07-11
+$605,"United Airlines, Alaska Airlines",2 stops,16h 05m,HNL,LAX,2023-07-11
+$605,"United Airlines, Alaska Airlines",2 stops,16h 05m,HNL,LAX,2023-07-11
+$537,"United Airlines, Alaska Airlines",1 stop,17h 49m,HNL,LAX,2023-07-11
+$403,Alaska Airlines,1 stop,20h 34m,HNL,LAX,2023-07-11
+$350,United Airlines,2 stops,21h 06m,HNL,LAX,2023-07-11
+$343,Alaska Airlines,1 stop,20h 59m,HNL,LAX,2023-07-11
+$640,American Airlines,2 stops,16h 18m,HNL,LAX,2023-07-11
+$401,United Airlines,2 stops,18h 25m,HNL,LAX,2023-07-11
+$600,"United Airlines, Hawaiian Airlines",1 stop,15h 19m,HNL,LAX,2023-07-11
+$341,United Airlines,1 stop,22h 07m,HNL,LAX,2023-07-11
+$544,"United Airlines, Hawaiian Airlines",2 stops,16h 10m,HNL,LAX,2023-07-11
+$769,United Airlines,1 stop,13h 02m,HNL,LAX,2023-07-11
+$300,United Airlines,1 stop,22h 56m,HNL,LAX,2023-07-11
+$585,"United Airlines, Alaska Airlines",2 stops,17h 04m,HNL,LAX,2023-07-11
+$542,"United Airlines, Hawaiian Airlines",2 stops,16h 20m,HNL,LAX,2023-07-11
+$363,Alaska Airlines,1 stop,22h 00m,HNL,LAX,2023-07-11
+$438,American Airlines,1 stop,20h 45m,HNL,LAX,2023-07-11
+$564,American Airlines,2 stops,18h 03m,HNL,LAX,2023-07-11
+$343,United Airlines,2 stops,22h 02m,HNL,LAX,2023-07-11
+$840,United Airlines,2 stops,13h 32m,HNL,LAX,2023-07-11
+$562,Multiple airlines,2 stops,16h 20m,HNL,LAX,2023-07-11
+$391,United Airlines,2 stops,21h 23m,HNL,LAX,2023-07-11
+$438,American Airlines,1 stop,21h 05m,HNL,LAX,2023-07-11
+$343,United Airlines,2 stops,22h 14m,HNL,LAX,2023-07-11
+$524,"United Airlines, Hawaiian Airlines",2 stops,17h 06m,HNL,LAX,2023-07-11
+$640,American Airlines,2 stops,17h 19m,HNL,LAX,2023-07-11
+$561,"United Airlines, Hawaiian Airlines",1 stop,17h 00m,HNL,LAX,2023-07-11
+$363,United Airlines,2 stops,20h 42m,HNL,LAX,2023-07-11
+$561,"United Airlines, Hawaiian Airlines",1 stop,18h 45m,HNL,LAX,2023-07-11
+$545,"United Airlines, Alaska Airlines",2 stops,18h 40m,HNL,LAX,2023-07-11
+$545,"United Airlines, Alaska Airlines",2 stops,18h 40m,HNL,LAX,2023-07-11
+$542,"United Airlines, Hawaiian Airlines",2 stops,17h 16m,HNL,LAX,2023-07-11
+$548,"United Airlines, Alaska Airlines",2 stops,18h 40m,HNL,LAX,2023-07-11
+$404,United Airlines,1 stop,20h 31m,HNL,LAX,2023-07-11
+$554,"United Airlines, Alaska Airlines",2 stops,18h 40m,HNL,LAX,2023-07-11
+$554,"United Airlines, Alaska Airlines",2 stops,18h 40m,HNL,LAX,2023-07-11
+$381,United Airlines,1 stop,22h 35m,HNL,LAX,2023-07-11
+$497,"United Airlines, Alaska Airlines",1 stop,18h 40m,HNL,LAX,2023-07-11
+$349,Alaska Airlines,1 stop,23h 25m,HNL,LAX,2023-07-11
+$567,"United Airlines, Alaska Airlines",2 stops,18h 40m,HNL,LAX,2023-07-11
+$350,United Airlines,2 stops,22h 57m,HNL,LAX,2023-07-11
+$566,"United Airlines, Hawaiian Airlines",2 stops,17h 16m,HNL,LAX,2023-07-11
+$353,United Airlines,2 stops,22h 57m,HNL,LAX,2023-07-11
+$363,United Airlines,2 stops,21h 25m,HNL,LAX,2023-07-11
+$524,"United Airlines, Hawaiian Airlines",2 stops,18h 20m,HNL,LAX,2023-07-11
+$363,United Airlines,2 stops,23h 22m,HNL,LAX,2023-07-11
+$485,American Airlines,1 stop,21h 41m,HNL,LAX,2023-07-11
+$603,"United Airlines, Alaska Airlines",1 stop,19h 14m,HNL,LAX,2023-07-11
+$605,"United Airlines, Alaska Airlines",2 stops,18h 44m,HNL,LAX,2023-07-11
+$381,United Airlines,1 stop,23h 30m,HNL,LAX,2023-07-11
+$438,American Airlines,1 stop,22h 46m,HNL,LAX,2023-07-11
+$498,American Airlines,1 stop,21h 49m,HNL,LAX,2023-07-11
+$542,"United Airlines, Hawaiian Airlines",2 stops,18h 30m,HNL,LAX,2023-07-11
+$558,"United Airlines, Alaska Airlines",1 stop,20h 14m,HNL,LAX,2023-07-11
+$451,United Airlines,1 stop,22h 15m,HNL,LAX,2023-07-11
+$270,United Airlines,1 stop,23h 41m,HNL,LAX,2023-07-11
+$403,United Airlines,2 stops,23h 09m,HNL,LAX,2023-07-11
+"$1,173",Delta,1 stop,10h 20m,HNL,LAX,2023-07-11
+$381,United Airlines,1 stop,23h 56m,HNL,LAX,2023-07-11
+$566,"United Airlines, Hawaiian Airlines",2 stops,18h 30m,HNL,LAX,2023-07-11
+$363,United Airlines,2 stops,22h 41m,HNL,LAX,2023-07-11
+$485,American Airlines,1 stop,22h 41m,HNL,LAX,2023-07-11
+$581,"United Airlines, Alaska Airlines",2 stops,18h 35m,HNL,LAX,2023-07-11
+$341,United Airlines,1 stop,25h 14m,HNL,LAX,2023-07-11
+$409,Alaska Airlines,2 stops,23h 45m,HNL,LAX,2023-07-11
+$688,American Airlines,1 stop,17h 30m,HNL,LAX,2023-07-11
+$381,United Airlines,1 stop,24h 37m,HNL,LAX,2023-07-11
+$270,United Airlines,1 stop,26h 21m,HNL,LAX,2023-07-11
+$341,United Airlines,1 stop,25h 39m,HNL,LAX,2023-07-11
+$363,Alaska Airlines,1 stop,25h 15m,HNL,LAX,2023-07-11
+$309,United Airlines,2 stops,23h 41m,HNL,LAX,2023-07-11
+$309,United Airlines,2 stops,23h 41m,HNL,LAX,2023-07-11
+$917,American Airlines,1 stop,14h 18m,HNL,LAX,2023-07-11
+$688,American Airlines,1 stop,18h 24m,HNL,LAX,2023-07-11
+$684,American Airlines,2 stops,20h 04m,HNL,LAX,2023-07-11
+$341,United Airlines,1 stop,26h 22m,HNL,LAX,2023-07-11
+$429,American Airlines,1 stop,24h 53m,HNL,LAX,2023-07-11
+$381,United Airlines,1 stop,25h 32m,HNL,LAX,2023-07-11
+$363,United Airlines,2 stops,24h 01m,HNL,LAX,2023-07-11
+$363,United Airlines,2 stops,24h 20m,HNL,LAX,2023-07-11
+$409,Alaska Airlines,1 stop,25h 30m,HNL,LAX,2023-07-11
+$270,United Airlines,1 stop,27h 31m,HNL,LAX,2023-07-11
+$917,American Airlines,1 stop,15h 12m,HNL,LAX,2023-07-11
+$381,United Airlines,1 stop,25h 58m,HNL,LAX,2023-07-11
+$381,United Airlines,1 stop,26h 02m,HNL,LAX,2023-07-11
+$503,American Airlines,2 stops,23h 57m,HNL,LAX,2023-07-11
+$406,United Airlines,2 stops,25h 05m,HNL,LAX,2023-07-11
+$981,Alaska Airlines,2 stops,15h 43m,HNL,LAX,2023-07-11
+$381,United Airlines,1 stop,26h 22m,HNL,LAX,2023-07-11
+$986,Alaska Airlines,2 stops,15h 43m,HNL,LAX,2023-07-11
+$778,Alaska Airlines,1 stop,19h 51m,HNL,LAX,2023-07-11
+$429,American Airlines,1 stop,25h 53m,HNL,LAX,2023-07-11
+$503,American Airlines,2 stops,24h 22m,HNL,LAX,2023-07-11
+$490,American Airlines,2 stops,24h 33m,HNL,LAX,2023-07-11
+$490,American Airlines,2 stops,24h 33m,HNL,LAX,2023-07-11
+$979,Alaska Airlines,2 stops,16h 05m,HNL,LAX,2023-07-11
+$979,Alaska Airlines,2 stops,16h 05m,HNL,LAX,2023-07-11
+$507,American Airlines,1 stop,24h 36m,HNL,LAX,2023-07-11
+$328,Alaska Airlines,1 stop,27h 48m,HNL,LAX,2023-07-11
+$494,American Airlines,1 stop,25h 00m,HNL,LAX,2023-07-11
+$381,United Airlines,1 stop,26h 48m,HNL,LAX,2023-07-11
+$328,Alaska Airlines,1 stop,26h 13m,HNL,LAX,2023-07-11
+$300,United Airlines,1 stop,28h 21m,HNL,LAX,2023-07-11
+$576,American Airlines,2 stops,23h 28m,HNL,LAX,2023-07-11
+$576,American Airlines,2 stops,23h 28m,HNL,LAX,2023-07-11
+$381,United Airlines,1 stop,27h 08m,HNL,LAX,2023-07-11
+$503,American Airlines,2 stops,24h 59m,HNL,LAX,2023-07-11
+"$1,173",Delta,1 stop,12h 05m,HNL,LAX,2023-07-11
+$503,American Airlines,2 stops,25h 05m,HNL,LAX,2023-07-11
+$306,United Airlines,1 stop,26h 33m,HNL,LAX,2023-07-11
+$970,United Airlines,2 stops,16h 55m,HNL,LAX,2023-07-11
+$494,American Airlines,1 stop,25h 43m,HNL,LAX,2023-07-11
+$507,American Airlines,1 stop,25h 40m,HNL,LAX,2023-07-11
+$381,United Airlines,1 stop,27h 53m,HNL,LAX,2023-07-11
+$503,American Airlines,2 stops,25h 44m,HNL,LAX,2023-07-11
+$381,United Airlines,1 stop,28h 04m,HNL,LAX,2023-07-11
+$341,United Airlines,1 stop,28h 58m,HNL,LAX,2023-07-11
+$368,Alaska Airlines,1 stop,28h 35m,HNL,LAX,2023-07-11
+$306,United Airlines,1 stop,29h 13m,HNL,LAX,2023-07-11
+$381,United Airlines,1 stop,28h 24m,HNL,LAX,2023-07-11
+$300,United Airlines,1 stop,30h 00m,HNL,LAX,2023-07-11
+$358,Alaska Airlines,1 stop,29h 05m,HNL,LAX,2023-07-11
+$429,American Airlines,1 stop,27h 48m,HNL,LAX,2023-07-11
+$585,"United Airlines, Hawaiian Airlines",1 stop,24h 34m,HNL,LAX,2023-07-11
+$286,United Airlines,1 stop,29h 56m,HNL,LAX,2023-07-11
+$438,Alaska Airlines,1 stop,27h 50m,HNL,LAX,2023-07-11
+$507,American Airlines,1 stop,26h 39m,HNL,LAX,2023-07-11
+$381,United Airlines,1 stop,28h 49m,HNL,LAX,2023-07-11
+$381,United Airlines,1 stop,28h 50m,HNL,LAX,2023-07-11
+$433,American Airlines,2 stops,27h 45m,HNL,LAX,2023-07-11
+$433,American Airlines,2 stops,27h 45m,HNL,LAX,2023-07-11
+$545,American Airlines,1 stop,26h 09m,HNL,LAX,2023-07-11
+"$1,018",Alaska Airlines,2 stops,17h 43m,HNL,LAX,2023-07-11
+$381,United Airlines,1 stop,29h 10m,HNL,LAX,2023-07-11
+$503,American Airlines,2 stops,26h 59m,HNL,LAX,2023-07-11
+$494,American Airlines,1 stop,27h 36m,HNL,LAX,2023-07-11
+$306,United Airlines,1 stop,30h 23m,HNL,LAX,2023-07-11
+$429,American Airlines,1 stop,28h 52m,HNL,LAX,2023-07-11
+$418,Alaska Airlines,1 stop,28h 59m,HNL,LAX,2023-07-11
+$490,American Airlines,2 stops,27h 33m,HNL,LAX,2023-07-11
+$496,American Airlines,2 stops,27h 33m,HNL,LAX,2023-07-11
+$381,United Airlines,1 stop,29h 55m,HNL,LAX,2023-07-11
+$512,American Airlines,2 stops,27h 33m,HNL,LAX,2023-07-11
+$512,American Airlines,2 stops,27h 33m,HNL,LAX,2023-07-11
+$338,Alaska Airlines,1 stop,31h 10m,HNL,LAX,2023-07-11
+$328,Alaska Airlines,1 stop,31h 24m,HNL,LAX,2023-07-11
+$328,Alaska Airlines,1 stop,31h 23m,HNL,LAX,2023-07-11
+$256,United Airlines,nonstop,5h 38m,HNL,LAX,2023-07-12
+$315,United Airlines,nonstop,5h 30m,HNL,LAX,2023-07-12
+$393,United Airlines,nonstop,5h 40m,HNL,LAX,2023-07-12
+$393,United Airlines,nonstop,5h 40m,HNL,LAX,2023-07-12
+$379,Alaska Airlines,nonstop,6h 10m,HNL,LAX,2023-07-12
+$450,Delta,nonstop,5h 45m,HNL,LAX,2023-07-12
+$476,American Airlines,nonstop,5h 55m,HNL,LAX,2023-07-12
+$556,American Airlines,nonstop,5h 47m,HNL,LAX,2023-07-12
+$431,American Airlines,1 stop,8h 32m,HNL,LAX,2023-07-12
+$431,American Airlines,1 stop,8h 57m,HNL,LAX,2023-07-12
+$375,United Airlines,1 stop,9h 57m,HNL,LAX,2023-07-12
+$681,Delta,nonstop,5h 50m,HNL,LAX,2023-07-12
+$375,United Airlines,1 stop,10h 14m,HNL,LAX,2023-07-12
+$431,American Airlines,1 stop,9h 40m,HNL,LAX,2023-07-12
+$481,American Airlines,1 stop,8h 55m,HNL,LAX,2023-07-12
+$318,United Airlines,1 stop,11h 36m,HNL,LAX,2023-07-12
+$395,United Airlines,1 stop,11h 00m,HNL,LAX,2023-07-12
+$311,United Airlines,1 stop,11h 16m,HNL,LAX,2023-07-12
+$481,American Airlines,1 stop,9h 38m,HNL,LAX,2023-07-12
+$555,American Airlines,1 stop,8h 30m,HNL,LAX,2023-07-12
+$375,United Airlines,1 stop,11h 53m,HNL,LAX,2023-07-12
+$375,United Airlines,1 stop,12h 16m,HNL,LAX,2023-07-12
+$565,American Airlines,1 stop,8h 55m,HNL,LAX,2023-07-12
+$555,American Airlines,1 stop,9h 10m,HNL,LAX,2023-07-12
+$278,United Airlines,1 stop,14h 01m,HNL,LAX,2023-07-12
+$481,American Airlines,1 stop,11h 31m,HNL,LAX,2023-07-12
+$395,United Airlines,1 stop,13h 06m,HNL,LAX,2023-07-12
+$485,United Airlines,1 stop,11h 34m,HNL,LAX,2023-07-12
+$375,United Airlines,1 stop,13h 55m,HNL,LAX,2023-07-12
+$555,American Airlines,1 stop,10h 39m,HNL,LAX,2023-07-12
+$295,Alaska Airlines,1 stop,11h 44m,HNL,LAX,2023-07-12
+$356,Alaska Airlines,1 stop,10h 10m,HNL,LAX,2023-07-12
+$335,Hawaiian Airlines,1 stop,10h 03m,HNL,LAX,2023-07-12
+$431,American Airlines,1 stop,8h 32m,HNL,LAX,2023-07-12
+$367,Alaska Airlines,1 stop,9h 40m,HNL,LAX,2023-07-12
+$539,"United Airlines, Hawaiian Airlines",1 stop,7h 29m,HNL,LAX,2023-07-12
+$444,United Airlines,1 stop,8h 45m,HNL,LAX,2023-07-12
+$311,United Airlines,1 stop,11h 16m,HNL,LAX,2023-07-12
+$431,American Airlines,1 stop,8h 57m,HNL,LAX,2023-07-12
+$375,United Airlines,1 stop,9h 57m,HNL,LAX,2023-07-12
+$356,Hawaiian Airlines,1 stop,10h 39m,HNL,LAX,2023-07-12
+$375,United Airlines,1 stop,10h 14m,HNL,LAX,2023-07-12
+$375,United Airlines,1 stop,10h 22m,HNL,LAX,2023-07-12
+$431,American Airlines,1 stop,9h 40m,HNL,LAX,2023-07-12
+$539,"United Airlines, Hawaiian Airlines",1 stop,7h 50m,HNL,LAX,2023-07-12
+$481,American Airlines,1 stop,8h 55m,HNL,LAX,2023-07-12
+$353,Alaska Airlines,1 stop,11h 15m,HNL,LAX,2023-07-12
+$681,Delta,nonstop,5h 50m,HNL,LAX,2023-07-12
+$478,"United Airlines, Hawaiian Airlines",1 stop,9h 00m,HNL,LAX,2023-07-12
+$356,Hawaiian Airlines,1 stop,11h 24m,HNL,LAX,2023-07-12
+$375,United Airlines,1 stop,11h 05m,HNL,LAX,2023-07-12
+$539,"United Airlines, Hawaiian Airlines",1 stop,8h 05m,HNL,LAX,2023-07-12
+$539,"United Airlines, Hawaiian Airlines",1 stop,7h 46m,HNL,LAX,2023-07-12
+$539,"United Airlines, Hawaiian Airlines",1 stop,7h 49m,HNL,LAX,2023-07-12
+$395,United Airlines,1 stop,11h 00m,HNL,LAX,2023-07-12
+$326,Alaska Airlines,1 stop,11h 50m,HNL,LAX,2023-07-12
+$481,American Airlines,1 stop,9h 38m,HNL,LAX,2023-07-12
+$539,"United Airlines, Hawaiian Airlines",1 stop,8h 44m,HNL,LAX,2023-07-12
+$497,"United Airlines, Alaska Airlines",1 stop,9h 00m,HNL,LAX,2023-07-12
+$555,American Airlines,1 stop,8h 30m,HNL,LAX,2023-07-12
+$375,United Airlines,1 stop,11h 53m,HNL,LAX,2023-07-12
+$295,Alaska Airlines,1 stop,13h 04m,HNL,LAX,2023-07-12
+$444,United Airlines,1 stop,10h 51m,HNL,LAX,2023-07-12
+$539,"United Airlines, Hawaiian Airlines",1 stop,9h 09m,HNL,LAX,2023-07-12
+$539,"United Airlines, Hawaiian Airlines",1 stop,8h 37m,HNL,LAX,2023-07-12
+$539,"United Airlines, Hawaiian Airlines",1 stop,8h 40m,HNL,LAX,2023-07-12
+$382,Alaska Airlines,2 stops,11h 48m,HNL,LAX,2023-07-12
+$375,United Airlines,1 stop,12h 16m,HNL,LAX,2023-07-12
+$356,Hawaiian Airlines,1 stop,12h 39m,HNL,LAX,2023-07-12
+$303,United Airlines,2 stops,13h 17m,HNL,LAX,2023-07-12
+$326,Alaska Airlines,1 stop,12h 45m,HNL,LAX,2023-07-12
+$382,JetBlue,1 stop,12h 20m,HNL,LAX,2023-07-12
+$539,"United Airlines, Hawaiian Airlines",1 stop,8h 53m,HNL,LAX,2023-07-12
+$565,American Airlines,1 stop,8h 55m,HNL,LAX,2023-07-12
+$555,American Airlines,1 stop,9h 10m,HNL,LAX,2023-07-12
+$373,Alaska Airlines,2 stops,11h 40m,HNL,LAX,2023-07-12
+$356,Alaska Airlines,1 stop,12h 20m,HNL,LAX,2023-07-12
+$645,Hawaiian Airlines,1 stop,7h 36m,HNL,LAX,2023-07-12
+$343,United Airlines,2 stops,12h 52m,HNL,LAX,2023-07-12
+$539,"United Airlines, Hawaiian Airlines",1 stop,9h 05m,HNL,LAX,2023-07-12
+$317,Alaska Airlines,1 stop,13h 18m,HNL,LAX,2023-07-12
+$318,Alaska Airlines,2 stops,13h 34m,HNL,LAX,2023-07-12
+$318,Alaska Airlines,2 stops,13h 34m,HNL,LAX,2023-07-12
+$278,United Airlines,1 stop,14h 01m,HNL,LAX,2023-07-12
+$539,"United Airlines, Hawaiian Airlines",1 stop,9h 20m,HNL,LAX,2023-07-12
+$311,United Airlines,1 stop,13h 33m,HNL,LAX,2023-07-12
+$303,United Airlines,2 stops,14h 00m,HNL,LAX,2023-07-12
+$539,"United Airlines, Hawaiian Airlines",1 stop,9h 39m,HNL,LAX,2023-07-12
+$295,Alaska Airlines,1 stop,14h 09m,HNL,LAX,2023-07-12
+$539,"United Airlines, Hawaiian Airlines",1 stop,9h 48m,HNL,LAX,2023-07-12
+$481,American Airlines,1 stop,11h 31m,HNL,LAX,2023-07-12
+$395,United Airlines,1 stop,13h 06m,HNL,LAX,2023-07-12
+$485,United Airlines,1 stop,11h 34m,HNL,LAX,2023-07-12
+$539,"United Airlines, Hawaiian Airlines",1 stop,10h 38m,HNL,LAX,2023-07-12
+$375,United Airlines,1 stop,13h 41m,HNL,LAX,2023-07-12
+$539,"United Airlines, Hawaiian Airlines",1 stop,10h 13m,HNL,LAX,2023-07-12
+$645,Hawaiian Airlines,1 stop,8h 50m,HNL,LAX,2023-07-12
+$349,Alaska Airlines,2 stops,13h 58m,HNL,LAX,2023-07-12
+$349,Alaska Airlines,2 stops,13h 58m,HNL,LAX,2023-07-12
+$349,Alaska Airlines,2 stops,13h 58m,HNL,LAX,2023-07-12
+$311,United Airlines,1 stop,14h 28m,HNL,LAX,2023-07-12
+$375,United Airlines,1 stop,13h 55m,HNL,LAX,2023-07-12
+$555,American Airlines,1 stop,10h 39m,HNL,LAX,2023-07-12
+$431,American Airlines,1 stop,13h 03m,HNL,LAX,2023-07-12
+$497,"United Airlines, Alaska Airlines",1 stop,11h 15m,HNL,LAX,2023-07-12
+$295,Alaska Airlines,1 stop,15h 04m,HNL,LAX,2023-07-12
+$565,American Airlines,1 stop,10h 40m,HNL,LAX,2023-07-12
+$356,Alaska Airlines,1 stop,14h 05m,HNL,LAX,2023-07-12
+$539,"United Airlines, Hawaiian Airlines",1 stop,11h 18m,HNL,LAX,2023-07-12
+$645,Hawaiian Airlines,1 stop,9h 22m,HNL,LAX,2023-07-12
+$539,"United Airlines, Hawaiian Airlines",1 stop,10h 49m,HNL,LAX,2023-07-12
+$539,"United Airlines, Hawaiian Airlines",1 stop,10h 55m,HNL,LAX,2023-07-12
+$371,Alaska Airlines,2 stops,14h 15m,HNL,LAX,2023-07-12
+$561,"United Airlines, Hawaiian Airlines",1 stop,9h 35m,HNL,LAX,2023-07-12
+$397,Alaska Airlines,2 stops,13h 19m,HNL,LAX,2023-07-12
+$343,Alaska Airlines,2 stops,14h 15m,HNL,LAX,2023-07-12
+$326,Alaska Airlines,1 stop,14h 55m,HNL,LAX,2023-07-12
+$317,Alaska Airlines,1 stop,15h 43m,HNL,LAX,2023-07-12
+$561,"United Airlines, Hawaiian Airlines",1 stop,11h 20m,HNL,LAX,2023-07-12
+$371,Alaska Airlines,2 stops,14h 25m,HNL,LAX,2023-07-12
+$371,Alaska Airlines,2 stops,14h 25m,HNL,LAX,2023-07-12
+$555,American Airlines,1 stop,11h 24m,HNL,LAX,2023-07-12
+$262,United Airlines,1 stop,16h 16m,HNL,LAX,2023-07-12
+$645,Hawaiian Airlines,1 stop,9h 50m,HNL,LAX,2023-07-12
+$431,American Airlines,1 stop,13h 47m,HNL,LAX,2023-07-12
+$564,American Airlines,2 stops,11h 03m,HNL,LAX,2023-07-12
+$373,Alaska Airlines,2 stops,14h 05m,HNL,LAX,2023-07-12
+$373,Alaska Airlines,2 stops,14h 05m,HNL,LAX,2023-07-12
+$343,United Airlines,2 stops,15h 16m,HNL,LAX,2023-07-12
+$294,United Airlines,1 stop,16h 42m,HNL,LAX,2023-07-12
+$564,American Airlines,2 stops,11h 28m,HNL,LAX,2023-07-12
+$375,Alaska Airlines,2 stops,14h 28m,HNL,LAX,2023-07-12
+$303,United Airlines,2 stops,16h 36m,HNL,LAX,2023-07-12
+$332,Alaska Airlines,1 stop,16h 05m,HNL,LAX,2023-07-12
+$564,American Airlines,2 stops,12h 05m,HNL,LAX,2023-07-12
+$555,American Airlines,1 stop,12h 39m,HNL,LAX,2023-07-12
+$294,United Airlines,1 stop,17h 37m,HNL,LAX,2023-07-12
+$375,United Airlines,1 stop,16h 11m,HNL,LAX,2023-07-12
+$564,American Airlines,2 stops,12h 11m,HNL,LAX,2023-07-12
+$411,Alaska Airlines,2 stops,14h 30m,HNL,LAX,2023-07-12
+$676,Hawaiian Airlines,1 stop,10h 33m,HNL,LAX,2023-07-12
+$312,Alaska Airlines,2 stops,16h 34m,HNL,LAX,2023-07-12
+$326,Alaska Airlines,1 stop,16h 40m,HNL,LAX,2023-07-12
+$295,Alaska Airlines,1 stop,17h 14m,HNL,LAX,2023-07-12
+$378,Alaska Airlines,2 stops,15h 25m,HNL,LAX,2023-07-12
+$294,United Airlines,1 stop,18h 03m,HNL,LAX,2023-07-12
+$325,United Airlines,1 stop,16h 53m,HNL,LAX,2023-07-12
+$564,American Airlines,2 stops,12h 48m,HNL,LAX,2023-07-12
+$564,American Airlines,2 stops,12h 50m,HNL,LAX,2023-07-12
+$343,United Airlines,2 stops,16h 55m,HNL,LAX,2023-07-12
+$690,Delta,1 stop,10h 57m,HNL,LAX,2023-07-12
+$481,American Airlines,1 stop,14h 46m,HNL,LAX,2023-07-12
+$340,Alaska Airlines,2 stops,16h 34m,HNL,LAX,2023-07-12
+$568,United Airlines,2 stops,13h 01m,HNL,LAX,2023-07-12
+$367,Alaska Airlines,1 stop,17h 19m,HNL,LAX,2023-07-12
+$343,Alaska Airlines,2 stops,16h 40m,HNL,LAX,2023-07-12
+$343,Alaska Airlines,2 stops,16h 40m,HNL,LAX,2023-07-12
+$341,Alaska Airlines,2 stops,16h 44m,HNL,LAX,2023-07-12
+$341,Alaska Airlines,2 stops,16h 44m,HNL,LAX,2023-07-12
+$545,"United Airlines, Alaska Airlines",2 stops,13h 07m,HNL,LAX,2023-07-12
+$564,American Airlines,2 stops,13h 13m,HNL,LAX,2023-07-12
+$347,Alaska Airlines,2 stops,16h 44m,HNL,LAX,2023-07-12
+$347,Alaska Airlines,2 stops,16h 44m,HNL,LAX,2023-07-12
+$548,"United Airlines, Alaska Airlines",2 stops,13h 07m,HNL,LAX,2023-07-12
+$481,American Airlines,1 stop,15h 14m,HNL,LAX,2023-07-12
+$676,Hawaiian Airlines,1 stop,11h 40m,HNL,LAX,2023-07-12
+$317,Alaska Airlines,1 stop,17h 43m,HNL,LAX,2023-07-12
+$375,United Airlines,1 stop,17h 37m,HNL,LAX,2023-07-12
+$572,"United Airlines, Alaska Airlines",2 stops,13h 05m,HNL,LAX,2023-07-12
+$564,American Airlines,2 stops,13h 50m,HNL,LAX,2023-07-12
+$688,American Airlines,1 stop,11h 58m,HNL,LAX,2023-07-12
+$564,American Airlines,2 stops,13h 56m,HNL,LAX,2023-07-12
+$331,Alaska Airlines,2 stops,17h 43m,HNL,LAX,2023-07-12
+$331,Alaska Airlines,2 stops,17h 43m,HNL,LAX,2023-07-12
+$564,American Airlines,2 stops,14h 05m,HNL,LAX,2023-07-12
+$340,Alaska Airlines,1 stop,18h 44m,HNL,LAX,2023-07-12
+$755,United Airlines,1 stop,10h 55m,HNL,LAX,2023-07-12
+$302,Alaska Airlines,1 stop,18h 40m,HNL,LAX,2023-07-12
+$676,Hawaiian Airlines,1 stop,12h 26m,HNL,LAX,2023-07-12
+$295,Alaska Airlines,1 stop,18h 59m,HNL,LAX,2023-07-12
+$348,Alaska Airlines,2 stops,17h 44m,HNL,LAX,2023-07-12
+$555,American Airlines,1 stop,14h 52m,HNL,LAX,2023-07-12
+$570,"United Airlines, Alaska Airlines",1 stop,14h 05m,HNL,LAX,2023-07-12
+$497,"United Airlines, Alaska Airlines",1 stop,13h 59m,HNL,LAX,2023-07-12
+$298,United Airlines,1 stop,19h 08m,HNL,LAX,2023-07-12
+$564,American Airlines,2 stops,14h 35m,HNL,LAX,2023-07-12
+$572,"United Airlines, Alaska Airlines",2 stops,14h 00m,HNL,LAX,2023-07-12
+$300,United Airlines,1 stop,20h 09m,HNL,LAX,2023-07-12
+$690,Delta,1 stop,12h 53m,HNL,LAX,2023-07-12
+$561,"United Airlines, Hawaiian Airlines",1 stop,14h 55m,HNL,LAX,2023-07-12
+$312,Alaska Airlines,2 stops,18h 59m,HNL,LAX,2023-07-12
+$312,Alaska Airlines,2 stops,18h 59m,HNL,LAX,2023-07-12
+$755,United Airlines,1 stop,11h 52m,HNL,LAX,2023-07-12
+$300,United Airlines,1 stop,20h 29m,HNL,LAX,2023-07-12
+$348,Alaska Airlines,2 stops,18h 40m,HNL,LAX,2023-07-12
+$354,Alaska Airlines,2 stops,18h 40m,HNL,LAX,2023-07-12
+$354,Alaska Airlines,2 stops,18h 40m,HNL,LAX,2023-07-12
+$497,"United Airlines, Alaska Airlines",1 stop,16h 39m,HNL,LAX,2023-07-12
+$545,"United Airlines, Alaska Airlines",2 stops,15h 24m,HNL,LAX,2023-07-12
+$564,American Airlines,2 stops,15h 34m,HNL,LAX,2023-07-12
+$300,United Airlines,1 stop,20h 55m,HNL,LAX,2023-07-12
+$548,"United Airlines, Alaska Airlines",2 stops,15h 24m,HNL,LAX,2023-07-12
+$548,"United Airlines, Alaska Airlines",2 stops,15h 24m,HNL,LAX,2023-07-12
+$690,Delta,1 stop,12h 05m,HNL,LAX,2023-07-12
+$554,"United Airlines, Alaska Airlines",2 stops,15h 24m,HNL,LAX,2023-07-12
+$337,Alaska Airlines,2 stops,19h 24m,HNL,LAX,2023-07-12
+$337,Alaska Airlines,2 stops,19h 24m,HNL,LAX,2023-07-12
+$337,Alaska Airlines,2 stops,19h 24m,HNL,LAX,2023-07-12
+$337,Alaska Airlines,2 stops,19h 24m,HNL,LAX,2023-07-12
+$564,American Airlines,2 stops,15h 50m,HNL,LAX,2023-07-12
+$300,United Airlines,1 stop,21h 15m,HNL,LAX,2023-07-12
+$350,Alaska Airlines,2 stops,19h 24m,HNL,LAX,2023-07-12
+$283,Alaska Airlines,1 stop,20h 59m,HNL,LAX,2023-07-12
+$540,"United Airlines, Alaska Airlines",1 stop,16h 24m,HNL,LAX,2023-07-12
+$382,United Airlines,1 stop,20h 02m,HNL,LAX,2023-07-12
+$564,American Airlines,2 stops,16h 18m,HNL,LAX,2023-07-12
+$564,American Airlines,2 stops,16h 18m,HNL,LAX,2023-07-12
+$384,United Airlines,2 stops,19h 45m,HNL,LAX,2023-07-12
+"$1,185",American Airlines,nonstop,5h 46m,HNL,LAX,2023-07-12
+$479,United Airlines,1 stop,18h 35m,HNL,LAX,2023-07-12
+$583,"United Airlines, Alaska Airlines",1 stop,14h 24m,HNL,LAX,2023-07-12
+$545,"United Airlines, Alaska Airlines",2 stops,16h 19m,HNL,LAX,2023-07-12
+$384,United Airlines,2 stops,19h 55m,HNL,LAX,2023-07-12
+$478,"United Airlines, Hawaiian Airlines",1 stop,16h 25m,HNL,LAX,2023-07-12
+$548,"United Airlines, Alaska Airlines",2 stops,16h 19m,HNL,LAX,2023-07-12
+$497,"United Airlines, Alaska Airlines",1 stop,17h 49m,HNL,LAX,2023-07-12
+$554,"United Airlines, Alaska Airlines",2 stops,16h 19m,HNL,LAX,2023-07-12
+$554,"United Airlines, Alaska Airlines",2 stops,16h 19m,HNL,LAX,2023-07-12
+$300,United Airlines,1 stop,22h 00m,HNL,LAX,2023-07-12
+$378,Alaska Airlines,1 stop,20h 34m,HNL,LAX,2023-07-12
+$318,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-12
+$509,"United Airlines, Hawaiian Airlines",1 stop,16h 20m,HNL,LAX,2023-07-12
+$572,"United Airlines, Alaska Airlines",2 stops,16h 25m,HNL,LAX,2023-07-12
+$323,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-12
+$323,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-12
+$323,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-12
+$323,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-12
+$575,"United Airlines, Alaska Airlines",2 stops,16h 25m,HNL,LAX,2023-07-12
+$561,"United Airlines, Hawaiian Airlines",1 stop,17h 09m,HNL,LAX,2023-07-12
+$564,American Airlines,2 stops,17h 19m,HNL,LAX,2023-07-12
+$409,American Airlines,1 stop,20h 44m,HNL,LAX,2023-07-12
+$336,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-12
+$300,United Airlines,1 stop,22h 56m,HNL,LAX,2023-07-12
+$544,"United Airlines, Hawaiian Airlines",2 stops,16h 10m,HNL,LAX,2023-07-12
+$755,United Airlines,1 stop,13h 02m,HNL,LAX,2023-07-12
+$542,"United Airlines, Hawaiian Airlines",2 stops,16h 20m,HNL,LAX,2023-07-12
+$378,Alaska Airlines,1 stop,22h 00m,HNL,LAX,2023-07-12
+$564,American Airlines,2 stops,18h 03m,HNL,LAX,2023-07-12
+$564,American Airlines,2 stops,18h 03m,HNL,LAX,2023-07-12
+$514,"United Airlines, Hawaiian Airlines",2 stops,17h 06m,HNL,LAX,2023-07-12
+$382,United Airlines,1 stop,22h 07m,HNL,LAX,2023-07-12
+$409,American Airlines,1 stop,21h 41m,HNL,LAX,2023-07-12
+$363,United Airlines,2 stops,20h 42m,HNL,LAX,2023-07-12
+$561,"United Airlines, Hawaiian Airlines",1 stop,17h 00m,HNL,LAX,2023-07-12
+$488,American Airlines,1 stop,20h 45m,HNL,LAX,2023-07-12
+$561,"United Airlines, Hawaiian Airlines",1 stop,18h 45m,HNL,LAX,2023-07-12
+$381,United Airlines,1 stop,22h 35m,HNL,LAX,2023-07-12
+$542,"United Airlines, Hawaiian Airlines",2 stops,17h 16m,HNL,LAX,2023-07-12
+$349,Alaska Airlines,1 stop,23h 25m,HNL,LAX,2023-07-12
+$363,Alaska Airlines,1 stop,23h 09m,HNL,LAX,2023-07-12
+$568,"United Airlines, Alaska Airlines",2 stops,18h 30m,HNL,LAX,2023-07-12
+$568,"United Airlines, Alaska Airlines",2 stops,18h 30m,HNL,LAX,2023-07-12
+$497,"United Airlines, Alaska Airlines",1 stop,18h 40m,HNL,LAX,2023-07-12
+$488,American Airlines,1 stop,21h 05m,HNL,LAX,2023-07-12
+$363,United Airlines,2 stops,21h 25m,HNL,LAX,2023-07-12
+$363,United Airlines,2 stops,22h 57m,HNL,LAX,2023-07-12
+$566,"United Airlines, Hawaiian Airlines",2 stops,17h 16m,HNL,LAX,2023-07-12
+$409,American Airlines,1 stop,22h 41m,HNL,LAX,2023-07-12
+$572,"United Airlines, Alaska Airlines",2 stops,18h 40m,HNL,LAX,2023-07-12
+$572,"United Airlines, Alaska Airlines",2 stops,18h 40m,HNL,LAX,2023-07-12
+$575,"United Airlines, Alaska Airlines",2 stops,18h 40m,HNL,LAX,2023-07-12
+$575,"United Airlines, Alaska Airlines",2 stops,18h 40m,HNL,LAX,2023-07-12
+$518,"United Airlines, Alaska Airlines",1 stop,20h 14m,HNL,LAX,2023-07-12
+$363,United Airlines,2 stops,23h 22m,HNL,LAX,2023-07-12
+$514,"United Airlines, Hawaiian Airlines",2 stops,18h 20m,HNL,LAX,2023-07-12
+$381,United Airlines,1 stop,23h 30m,HNL,LAX,2023-07-12
+$603,"United Airlines, Alaska Airlines",1 stop,19h 14m,HNL,LAX,2023-07-12
+$498,American Airlines,1 stop,21h 49m,HNL,LAX,2023-07-12
+$542,"United Airlines, Hawaiian Airlines",2 stops,18h 30m,HNL,LAX,2023-07-12
+$363,United Airlines,2 stops,24h 05m,HNL,LAX,2023-07-12
+$381,United Airlines,1 stop,23h 56m,HNL,LAX,2023-07-12
+$773,American Airlines,1 stop,15h 12m,HNL,LAX,2023-07-12
+$320,United Airlines,1 stop,23h 41m,HNL,LAX,2023-07-12
+$363,United Airlines,2 stops,22h 41m,HNL,LAX,2023-07-12
+$566,"United Airlines, Hawaiian Airlines",2 stops,18h 30m,HNL,LAX,2023-07-12
+$607,American Airlines,2 stops,20h 04m,HNL,LAX,2023-07-12
+$406,American Airlines,2 stops,23h 57m,HNL,LAX,2023-07-12
+$488,American Airlines,1 stop,22h 46m,HNL,LAX,2023-07-12
+$363,United Airlines,2 stops,23h 05m,HNL,LAX,2023-07-12
+$381,United Airlines,1 stop,24h 37m,HNL,LAX,2023-07-12
+$581,"United Airlines, Alaska Airlines",2 stops,18h 35m,HNL,LAX,2023-07-12
+"$1,173",Delta,1 stop,10h 20m,HNL,LAX,2023-07-12
+$382,United Airlines,1 stop,24h 54m,HNL,LAX,2023-07-12
+$406,American Airlines,2 stops,24h 22m,HNL,LAX,2023-07-12
+$378,Alaska Airlines,1 stop,25h 15m,HNL,LAX,2023-07-12
+$369,Alaska Airlines,1 stop,25h 30m,HNL,LAX,2023-07-12
+$429,American Airlines,1 stop,24h 36m,HNL,LAX,2023-07-12
+$414,American Airlines,2 stops,24h 33m,HNL,LAX,2023-07-12
+$414,American Airlines,2 stops,24h 33m,HNL,LAX,2023-07-12
+$363,United Airlines,2 stops,24h 01m,HNL,LAX,2023-07-12
+$381,United Airlines,1 stop,25h 32m,HNL,LAX,2023-07-12
+$406,American Airlines,2 stops,24h 59m,HNL,LAX,2023-07-12
+$495,United Airlines,1 stop,23h 11m,HNL,LAX,2023-07-12
+$406,American Airlines,2 stops,25h 05m,HNL,LAX,2023-07-12
+$362,United Airlines,2 stops,23h 41m,HNL,LAX,2023-07-12
+$334,United Airlines,1 stop,26h 21m,HNL,LAX,2023-07-12
+$363,United Airlines,2 stops,24h 20m,HNL,LAX,2023-07-12
+$372,United Airlines,2 stops,23h 41m,HNL,LAX,2023-07-12
+$381,United Airlines,1 stop,25h 58m,HNL,LAX,2023-07-12
+$381,United Airlines,1 stop,26h 02m,HNL,LAX,2023-07-12
+$507,American Airlines,1 stop,23h 56m,HNL,LAX,2023-07-12
+$406,American Airlines,2 stops,25h 44m,HNL,LAX,2023-07-12
+$381,United Airlines,1 stop,26h 22m,HNL,LAX,2023-07-12
+$388,Alaska Airlines,1 stop,26h 19m,HNL,LAX,2023-07-12
+$429,American Airlines,1 stop,25h 46m,HNL,LAX,2023-07-12
+$758,Alaska Airlines,1 stop,19h 51m,HNL,LAX,2023-07-12
+$300,United Airlines,1 stop,28h 21m,HNL,LAX,2023-07-12
+$381,United Airlines,1 stop,26h 48m,HNL,LAX,2023-07-12
+$432,United Airlines,2 stops,23h 31m,HNL,LAX,2023-07-12
+$432,United Airlines,2 stops,23h 31m,HNL,LAX,2023-07-12
+$334,United Airlines,1 stop,27h 31m,HNL,LAX,2023-07-12
+$507,American Airlines,1 stop,24h 53m,HNL,LAX,2023-07-12
+$300,United Airlines,1 stop,28h 45m,HNL,LAX,2023-07-12
+$381,United Airlines,1 stop,27h 08m,HNL,LAX,2023-07-12
+$328,Alaska Airlines,1 stop,27h 48m,HNL,LAX,2023-07-12
+$328,Alaska Airlines,1 stop,26h 13m,HNL,LAX,2023-07-12
+$920,United Airlines,1 stop,15h 55m,HNL,LAX,2023-07-12
+$363,Alaska Airlines,1 stop,27h 50m,HNL,LAX,2023-07-12
+$429,American Airlines,1 stop,26h 39m,HNL,LAX,2023-07-12
+"$1,010",American Airlines,1 stop,14h 18m,HNL,LAX,2023-07-12
+$313,Alaska Airlines,1 stop,27h 25m,HNL,LAX,2023-07-12
+$544,American Airlines,1 stop,25h 00m,HNL,LAX,2023-07-12
+$381,United Airlines,1 stop,27h 53m,HNL,LAX,2023-07-12
+$507,American Airlines,1 stop,25h 53m,HNL,LAX,2023-07-12
+$381,United Airlines,1 stop,28h 04m,HNL,LAX,2023-07-12
+$494,American Airlines,1 stop,26h 09m,HNL,LAX,2023-07-12
+$300,United Airlines,1 stop,30h 00m,HNL,LAX,2023-07-12
+$381,United Airlines,1 stop,28h 24m,HNL,LAX,2023-07-12
+$544,American Airlines,1 stop,25h 43m,HNL,LAX,2023-07-12
+$414,American Airlines,2 stops,27h 38m,HNL,LAX,2023-07-12
+$381,United Airlines,1 stop,28h 49m,HNL,LAX,2023-07-12
+$381,United Airlines,1 stop,28h 50m,HNL,LAX,2023-07-12
+$406,American Airlines,2 stops,28h 18m,HNL,LAX,2023-07-12
+$433,American Airlines,2 stops,27h 38m,HNL,LAX,2023-07-12
+$433,American Airlines,2 stops,27h 38m,HNL,LAX,2023-07-12
+$378,Alaska Airlines,1 stop,28h 59m,HNL,LAX,2023-07-12
+$358,Alaska Airlines,1 stop,29h 05m,HNL,LAX,2023-07-12
+$406,American Airlines,2 stops,28h 28m,HNL,LAX,2023-07-12
+$656,American Airlines,2 stops,23h 53m,HNL,LAX,2023-07-12
+$926,American Airlines,1 stop,17h 30m,HNL,LAX,2023-07-12
+$381,United Airlines,1 stop,29h 10m,HNL,LAX,2023-07-12
+$544,American Airlines,1 stop,26h 30m,HNL,LAX,2023-07-12
+$429,American Airlines,1 stop,28h 31m,HNL,LAX,2023-07-12
+$494,American Airlines,1 stop,27h 20m,HNL,LAX,2023-07-12
+$334,United Airlines,1 stop,29h 56m,HNL,LAX,2023-07-12
+$969,Alaska Airlines,1 stop,17h 22m,HNL,LAX,2023-07-12
+$934,United Airlines,1 stop,19h 45m,HNL,LAX,2023-07-12
+$406,American Airlines,2 stops,29h 12m,HNL,LAX,2023-07-12
+$406,American Airlines,2 stops,29h 12m,HNL,LAX,2023-07-12
+$917,American Airlines,1 stop,18h 24m,HNL,LAX,2023-07-12
+$920,United Airlines,1 stop,18h 25m,HNL,LAX,2023-07-12
+$656,American Airlines,2 stops,24h 40m,HNL,LAX,2023-07-12
+$381,United Airlines,1 stop,29h 55m,HNL,LAX,2023-07-12
+$283,Alaska Airlines,1 stop,29h 44m,HNL,LAX,2023-07-12
+$406,American Airlines,2 stops,29h 16m,HNL,LAX,2023-07-12
+$507,American Airlines,1 stop,27h 48m,HNL,LAX,2023-07-12
+$363,Alaska Airlines,1 stop,30h 34m,HNL,LAX,2023-07-12
+$512,American Airlines,2 stops,27h 45m,HNL,LAX,2023-07-12
+$512,American Airlines,2 stops,27h 45m,HNL,LAX,2023-07-12
+$544,American Airlines,1 stop,27h 36m,HNL,LAX,2023-07-12
+$369,Alaska Airlines,1 stop,30h 50m,HNL,LAX,2023-07-12
+$406,American Airlines,2 stops,30h 01m,HNL,LAX,2023-07-12
+$338,Alaska Airlines,1 stop,31h 10m,HNL,LAX,2023-07-12
+$328,Alaska Airlines,1 stop,31h 24m,HNL,LAX,2023-07-12
+$328,Alaska Airlines,1 stop,31h 23m,HNL,LAX,2023-07-12
+$934,United Airlines,1 stop,21h 05m,HNL,LAX,2023-07-12
+$507,American Airlines,1 stop,28h 58m,HNL,LAX,2023-07-12
+$544,American Airlines,1 stop,28h 40m,HNL,LAX,2023-07-12
+$544,American Airlines,1 stop,29h 00m,HNL,LAX,2023-07-12
+$618,American Airlines,1 stop,27h 49m,HNL,LAX,2023-07-12
+$934,United Airlines,1 stop,22h 15m,HNL,LAX,2023-07-12
+$622,American Airlines,2 stops,28h 16m,HNL,LAX,2023-07-12
+$618,American Airlines,1 stop,28h 49m,HNL,LAX,2023-07-12
+$406,American Airlines,2 stops,32h 35m,HNL,LAX,2023-07-12
+"$1,154",United Airlines,1 stop,17h 40m,HNL,LAX,2023-07-12
+$544,American Airlines,1 stop,30h 41m,HNL,LAX,2023-07-12
+$669,American Airlines,2 stops,28h 14m,HNL,LAX,2023-07-12
+$627,American Airlines,2 stops,29h 15m,HNL,LAX,2023-07-12
+"$1,261",United Airlines,1 stop,16h 56m,HNL,LAX,2023-07-12
+$934,United Airlines,1 stop,24h 38m,HNL,LAX,2023-07-12
+$326,United Airlines,nonstop,5h 38m,HNL,LAX,2023-07-13
+$325,United Airlines,1 stop,11h 36m,HNL,LAX,2023-07-13
+$326,United Airlines,nonstop,5h 30m,HNL,LAX,2023-07-13
+$326,United Airlines,nonstop,5h 40m,HNL,LAX,2023-07-13
+$326,United Airlines,nonstop,5h 40m,HNL,LAX,2023-07-13
+$360,Delta,nonstop,5h 45m,HNL,LAX,2023-07-13
+$379,Alaska Airlines,nonstop,6h 10m,HNL,LAX,2023-07-13
+$450,Delta,nonstop,5h 50m,HNL,LAX,2023-07-13
+$476,American Airlines,nonstop,5h 55m,HNL,LAX,2023-07-13
+$570,Hawaiian Airlines,nonstop,5h 45m,HNL,LAX,2023-07-13
+$335,United Airlines,1 stop,8h 24m,HNL,LAX,2023-07-13
+$681,Delta,nonstop,5h 36m,HNL,LAX,2023-07-13
+$679,American Airlines,nonstop,5h 47m,HNL,LAX,2023-07-13
+$409,United Airlines,1 stop,8h 26m,HNL,LAX,2023-07-13
+$409,United Airlines,1 stop,8h 30m,HNL,LAX,2023-07-13
+$409,United Airlines,1 stop,8h 45m,HNL,LAX,2023-07-13
+$318,United Airlines,1 stop,10h 51m,HNL,LAX,2023-07-13
+$375,United Airlines,1 stop,10h 14m,HNL,LAX,2023-07-13
+$681,Delta,nonstop,5h 36m,HNL,LAX,2023-07-13
+$375,United Airlines,1 stop,10h 22m,HNL,LAX,2023-07-13
+$679,American Airlines,nonstop,5h 47m,HNL,LAX,2023-07-13
+$375,United Airlines,1 stop,10h 38m,HNL,LAX,2023-07-13
+$481,American Airlines,1 stop,8h 55m,HNL,LAX,2023-07-13
+$325,United Airlines,1 stop,11h 36m,HNL,LAX,2023-07-13
+$395,United Airlines,1 stop,11h 00m,HNL,LAX,2023-07-13
+$481,American Airlines,1 stop,9h 38m,HNL,LAX,2023-07-13
+$395,United Airlines,1 stop,11h 16m,HNL,LAX,2023-07-13
+$555,American Airlines,1 stop,8h 30m,HNL,LAX,2023-07-13
+$555,American Airlines,1 stop,8h 32m,HNL,LAX,2023-07-13
+$334,United Airlines,1 stop,12h 16m,HNL,LAX,2023-07-13
+$375,United Airlines,1 stop,11h 53m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,7h 50m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,7h 49m,HNL,LAX,2023-07-13
+$375,United Airlines,1 stop,10h 14m,HNL,LAX,2023-07-13
+$375,United Airlines,1 stop,10h 22m,HNL,LAX,2023-07-13
+$375,United Airlines,1 stop,10h 38m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,8h 05m,HNL,LAX,2023-07-13
+$375,United Airlines,1 stop,11h 05m,HNL,LAX,2023-07-13
+$478,"United Airlines, Hawaiian Airlines",1 stop,9h 00m,HNL,LAX,2023-07-13
+$481,American Airlines,1 stop,8h 55m,HNL,LAX,2023-07-13
+$395,United Airlines,1 stop,11h 00m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,8h 27m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,8h 33m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,8h 37m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,8h 40m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,8h 44m,HNL,LAX,2023-07-13
+$395,United Airlines,1 stop,11h 16m,HNL,LAX,2023-07-13
+$555,American Airlines,1 stop,8h 30m,HNL,LAX,2023-07-13
+$555,American Airlines,1 stop,8h 32m,HNL,LAX,2023-07-13
+$334,United Airlines,1 stop,12h 16m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,8h 53m,HNL,LAX,2023-07-13
+$375,United Airlines,1 stop,11h 53m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,9h 05m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,9h 09m,HNL,LAX,2023-07-13
+$334,United Airlines,1 stop,12h 40m,HNL,LAX,2023-07-13
+$555,American Airlines,1 stop,8h 57m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,9h 20m,HNL,LAX,2023-07-13
+$565,American Airlines,1 stop,8h 55m,HNL,LAX,2023-07-13
+$645,Hawaiian Airlines,1 stop,7h 36m,HNL,LAX,2023-07-13
+$481,American Airlines,1 stop,10h 25m,HNL,LAX,2023-07-13
+$555,American Airlines,1 stop,9h 10m,HNL,LAX,2023-07-13
+$497,"United Airlines, Alaska Airlines",1 stop,9h 00m,HNL,LAX,2023-07-13
+$430,Alaska Airlines,1 stop,10h 45m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,8h 53m,HNL,LAX,2023-07-13
+$375,United Airlines,1 stop,11h 53m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,9h 05m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,9h 09m,HNL,LAX,2023-07-13
+$334,United Airlines,1 stop,12h 40m,HNL,LAX,2023-07-13
+$555,American Airlines,1 stop,8h 57m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,9h 20m,HNL,LAX,2023-07-13
+$565,American Airlines,1 stop,8h 55m,HNL,LAX,2023-07-13
+$645,Hawaiian Airlines,1 stop,7h 36m,HNL,LAX,2023-07-13
+$411,United Airlines,1 stop,11h 34m,HNL,LAX,2023-07-13
+$481,American Airlines,1 stop,10h 25m,HNL,LAX,2023-07-13
+$555,American Airlines,1 stop,9h 10m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,9h 39m,HNL,LAX,2023-07-13
+$303,United Airlines,2 stops,13h 17m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,9h 48m,HNL,LAX,2023-07-13
+$438,Alaska Airlines,1 stop,11h 44m,HNL,LAX,2023-07-13
+$555,American Airlines,1 stop,9h 40m,HNL,LAX,2023-07-13
+$430,Alaska Airlines,1 stop,11h 50m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,9h 57m,HNL,LAX,2023-07-13
+$422,Alaska Airlines,1 stop,12h 03m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,10h 13m,HNL,LAX,2023-07-13
+$303,United Airlines,2 stops,14h 00m,HNL,LAX,2023-07-13
+$334,United Airlines,1 stop,13h 55m,HNL,LAX,2023-07-13
+$481,American Airlines,1 stop,11h 31m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,10h 35m,HNL,LAX,2023-07-13
+$645,Hawaiian Airlines,1 stop,8h 50m,HNL,LAX,2023-07-13
+$400,Alaska Airlines,1 stop,13h 04m,HNL,LAX,2023-07-13
+$311,United Airlines,1 stop,14h 01m,HNL,LAX,2023-07-13
+$395,United Airlines,1 stop,13h 06m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,10h 49m,HNL,LAX,2023-07-13
+$375,United Airlines,1 stop,13h 41m,HNL,LAX,2023-07-13
+$555,American Airlines,1 stop,10h 39m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,10h 55m,HNL,LAX,2023-07-13
+$497,"United Airlines, Alaska Airlines",1 stop,11h 15m,HNL,LAX,2023-07-13
+$395,United Airlines,1 stop,13h 33m,HNL,LAX,2023-07-13
+$565,American Airlines,1 stop,10h 40m,HNL,LAX,2023-07-13
+$645,Hawaiian Airlines,1 stop,9h 22m,HNL,LAX,2023-07-13
+$519,Alaska Airlines,1 stop,11h 30m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",1 stop,11h 18m,HNL,LAX,2023-07-13
+$490,American Airlines,2 stops,12h 05m,HNL,LAX,2023-07-13
+$645,Hawaiian Airlines,1 stop,9h 50m,HNL,LAX,2023-07-13
+$580,United Airlines,2 stops,10h 37m,HNL,LAX,2023-07-13
+$555,American Airlines,1 stop,11h 24m,HNL,LAX,2023-07-13
+$397,Alaska Airlines,2 stops,13h 19m,HNL,LAX,2023-07-13
+$400,Alaska Airlines,1 stop,14h 09m,HNL,LAX,2023-07-13
+$564,American Airlines,2 stops,11h 03m,HNL,LAX,2023-07-13
+$586,"United Airlines, Hawaiian Airlines",1 stop,9h 35m,HNL,LAX,2023-07-13
+$395,United Airlines,1 stop,14h 28m,HNL,LAX,2023-07-13
+$564,American Airlines,2 stops,11h 28m,HNL,LAX,2023-07-13
+$343,United Airlines,2 stops,15h 16m,HNL,LAX,2023-07-13
+$490,American Airlines,2 stops,12h 50m,HNL,LAX,2023-07-13
+$294,United Airlines,1 stop,16h 42m,HNL,LAX,2023-07-13
+$494,United Airlines,2 stops,13h 01m,HNL,LAX,2023-07-13
+$343,United Airlines,2 stops,15h 40m,HNL,LAX,2023-07-13
+$298,United Airlines,1 stop,16h 16m,HNL,LAX,2023-07-13
+$676,Hawaiian Airlines,1 stop,10h 33m,HNL,LAX,2023-07-13
+$564,American Airlines,2 stops,12h 11m,HNL,LAX,2023-07-13
+$303,United Airlines,2 stops,16h 36m,HNL,LAX,2023-07-13
+$494,United Airlines,2 stops,13h 25m,HNL,LAX,2023-07-13
+$375,United Airlines,1 stop,16h 11m,HNL,LAX,2023-07-13
+$555,American Airlines,1 stop,13h 03m,HNL,LAX,2023-07-13
+$294,United Airlines,1 stop,17h 37m,HNL,LAX,2023-07-13
+$620,"United Airlines, Alaska Airlines",1 stop,11h 30m,HNL,LAX,2023-07-13
+$690,Delta,1 stop,10h 57m,HNL,LAX,2023-07-13
+$385,Alaska Airlines,1 stop,14h 39m,HNL,LAX,2023-07-13
+$564,American Airlines,2 stops,12h 48m,HNL,LAX,2023-07-13
+$420,United Airlines,2 stops,15h 16m,HNL,LAX,2023-07-13
+$676,Hawaiian Airlines,1 stop,11h 20m,HNL,LAX,2023-07-13
+$422,Alaska Airlines,1 stop,15h 43m,HNL,LAX,2023-07-13
+$294,United Airlines,1 stop,18h 03m,HNL,LAX,2023-07-13
+$481,American Airlines,1 stop,14h 46m,HNL,LAX,2023-07-13
+$343,United Airlines,2 stops,16h 55m,HNL,LAX,2023-07-13
+$545,"United Airlines, Alaska Airlines",2 stops,13h 07m,HNL,LAX,2023-07-13
+$676,Hawaiian Airlines,1 stop,11h 40m,HNL,LAX,2023-07-13
+$317,Alaska Airlines,1 stop,17h 43m,HNL,LAX,2023-07-13
+$564,American Airlines,2 stops,13h 13m,HNL,LAX,2023-07-13
+$420,United Airlines,2 stops,15h 40m,HNL,LAX,2023-07-13
+$555,American Airlines,1 stop,13h 47m,HNL,LAX,2023-07-13
+$555,American Airlines,1 stop,13h 58m,HNL,LAX,2023-07-13
+$481,American Airlines,1 stop,15h 14m,HNL,LAX,2023-07-13
+$395,United Airlines,1 stop,16h 53m,HNL,LAX,2023-07-13
+$485,Alaska Airlines,2 stops,15h 05m,HNL,LAX,2023-07-13
+$755,United Airlines,1 stop,10h 55m,HNL,LAX,2023-07-13
+$564,American Airlines,2 stops,13h 50m,HNL,LAX,2023-07-13
+$308,Alaska Airlines,1 stop,18h 44m,HNL,LAX,2023-07-13
+$375,United Airlines,1 stop,17h 37m,HNL,LAX,2023-07-13
+$483,Alaska Airlines,2 stops,15h 19m,HNL,LAX,2023-07-13
+$564,American Airlines,2 stops,13h 56m,HNL,LAX,2023-07-13
+$676,Hawaiian Airlines,1 stop,12h 26m,HNL,LAX,2023-07-13
+$490,American Airlines,2 stops,15h 24m,HNL,LAX,2023-07-13
+$413,Alaska Airlines,1 stop,17h 19m,HNL,LAX,2023-07-13
+$604,"United Airlines, Alaska Airlines",2 stops,13h 07m,HNL,LAX,2023-07-13
+$395,United Airlines,1 stop,15h 55m,HNL,LAX,2023-07-13
+$579,"United Airlines, Alaska Airlines",2 stops,13h 34m,HNL,LAX,2023-07-13
+$570,"United Airlines, Alaska Airlines",1 stop,14h 05m,HNL,LAX,2023-07-13
+$487,"United Airlines, Alaska Airlines",1 stop,13h 59m,HNL,LAX,2023-07-13
+$555,American Airlines,1 stop,14h 52m,HNL,LAX,2023-07-13
+$564,American Airlines,2 stops,14h 35m,HNL,LAX,2023-07-13
+$604,"United Airlines, Alaska Airlines",2 stops,13h 34m,HNL,LAX,2023-07-13
+$690,Delta,1 stop,12h 53m,HNL,LAX,2023-07-13
+$634,"United Airlines, Alaska Airlines",2 stops,13h 05m,HNL,LAX,2023-07-13
+$755,United Airlines,1 stop,11h 52m,HNL,LAX,2023-07-13
+$438,Alaska Airlines,1 stop,17h 14m,HNL,LAX,2023-07-13
+$366,Alaska Airlines,2 stops,17h 40m,HNL,LAX,2023-07-13
+$490,American Airlines,2 stops,16h 18m,HNL,LAX,2023-07-13
+$395,United Airlines,1 stop,18h 35m,HNL,LAX,2023-07-13
+$300,United Airlines,1 stop,20h 09m,HNL,LAX,2023-07-13
+$303,United Airlines,2 stops,19h 45m,HNL,LAX,2023-07-13
+$586,"United Airlines, Hawaiian Airlines",1 stop,14h 55m,HNL,LAX,2023-07-13
+$487,"United Airlines, Alaska Airlines",1 stop,16h 39m,HNL,LAX,2023-07-13
+$625,"United Airlines, Alaska Airlines",2 stops,13h 50m,HNL,LAX,2023-07-13
+"$1,185",American Airlines,nonstop,5h 46m,HNL,LAX,2023-07-13
+$300,United Airlines,1 stop,20h 29m,HNL,LAX,2023-07-13
+$545,"United Airlines, Alaska Airlines",2 stops,15h 24m,HNL,LAX,2023-07-13
+$564,American Airlines,2 stops,15h 34m,HNL,LAX,2023-07-13
+$634,"United Airlines, Alaska Airlines",2 stops,14h 00m,HNL,LAX,2023-07-13
+$553,"United Airlines, Alaska Airlines",1 stop,14h 24m,HNL,LAX,2023-07-13
+$300,United Airlines,1 stop,20h 55m,HNL,LAX,2023-07-13
+$395,United Airlines,1 stop,19h 08m,HNL,LAX,2023-07-13
+$386,Alaska Airlines,1 stop,17h 22m,HNL,LAX,2023-07-13
+$540,"United Airlines, Alaska Airlines",1 stop,16h 24m,HNL,LAX,2023-07-13
+$387,Alaska Airlines,2 stops,18h 40m,HNL,LAX,2023-07-13
+$309,United Airlines,2 stops,20h 40m,HNL,LAX,2023-07-13
+$300,United Airlines,1 stop,21h 15m,HNL,LAX,2023-07-13
+$564,American Airlines,2 stops,16h 18m,HNL,LAX,2023-07-13
+$382,United Airlines,1 stop,20h 02m,HNL,LAX,2023-07-13
+$487,"United Airlines, Alaska Airlines",1 stop,17h 49m,HNL,LAX,2023-07-13
+$545,"United Airlines, Alaska Airlines",2 stops,16h 19m,HNL,LAX,2023-07-13
+$404,United Airlines,1 stop,19h 45m,HNL,LAX,2023-07-13
+$604,"United Airlines, Alaska Airlines",2 stops,15h 24m,HNL,LAX,2023-07-13
+$604,"United Airlines, Alaska Airlines",2 stops,15h 24m,HNL,LAX,2023-07-13
+$610,"United Airlines, Alaska Airlines",2 stops,15h 24m,HNL,LAX,2023-07-13
+$336,Alaska Airlines,2 stops,19h 59m,HNL,LAX,2023-07-13
+$309,United Airlines,2 stops,21h 06m,HNL,LAX,2023-07-13
+$395,United Airlines,1 stop,18h 25m,HNL,LAX,2023-07-13
+$384,United Airlines,2 stops,19h 57m,HNL,LAX,2023-07-13
+$300,United Airlines,1 stop,22h 00m,HNL,LAX,2023-07-13
+$361,Alaska Airlines,2 stops,19h 59m,HNL,LAX,2023-07-13
+$575,"United Airlines, Alaska Airlines",2 stops,16h 25m,HNL,LAX,2023-07-13
+$508,"United Airlines, Hawaiian Airlines",1 stop,16h 25m,HNL,LAX,2023-07-13
+$564,American Airlines,2 stops,17h 09m,HNL,LAX,2023-07-13
+$438,Alaska Airlines,1 stop,19h 51m,HNL,LAX,2023-07-13
+$388,American Airlines,1 stop,20h 44m,HNL,LAX,2023-07-13
+$564,American Airlines,2 stops,17h 19m,HNL,LAX,2023-07-13
+$512,"United Airlines, Hawaiian Airlines",2 stops,16h 20m,HNL,LAX,2023-07-13
+$604,"United Airlines, Alaska Airlines",2 stops,16h 19m,HNL,LAX,2023-07-13
+$534,"United Airlines, Hawaiian Airlines",1 stop,16h 20m,HNL,LAX,2023-07-13
+$610,"United Airlines, Alaska Airlines",2 stops,16h 19m,HNL,LAX,2023-07-13
+$610,"United Airlines, Alaska Airlines",2 stops,16h 19m,HNL,LAX,2023-07-13
+$755,United Airlines,1 stop,13h 02m,HNL,LAX,2023-07-13
+$303,United Airlines,2 stops,22h 02m,HNL,LAX,2023-07-13
+$917,American Airlines,1 stop,11h 58m,HNL,LAX,2023-07-13
+$625,"United Airlines, Alaska Airlines",2 stops,16h 05m,HNL,LAX,2023-07-13
+$625,"United Airlines, Alaska Airlines",2 stops,16h 05m,HNL,LAX,2023-07-13
+$365,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-13
+$365,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-13
+$398,Alaska Airlines,1 stop,19h 20m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",2 stops,16h 10m,HNL,LAX,2023-07-13
+$300,United Airlines,1 stop,22h 56m,HNL,LAX,2023-07-13
+$564,American Airlines,2 stops,18h 03m,HNL,LAX,2023-07-13
+$564,American Airlines,2 stops,18h 03m,HNL,LAX,2023-07-13
+$388,American Airlines,1 stop,21h 41m,HNL,LAX,2023-07-13
+$458,Alaska Airlines,1 stop,20h 34m,HNL,LAX,2023-07-13
+$378,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-13
+$391,United Airlines,2 stops,21h 23m,HNL,LAX,2023-07-13
+$512,"United Airlines, Hawaiian Airlines",2 stops,17h 16m,HNL,LAX,2023-07-13
+$438,American Airlines,1 stop,21h 05m,HNL,LAX,2023-07-13
+$384,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-13
+$382,United Airlines,1 stop,22h 07m,HNL,LAX,2023-07-13
+$309,United Airlines,2 stops,22h 57m,HNL,LAX,2023-07-13
+$578,Multiple airlines,2 stops,16h 25m,HNL,LAX,2023-07-13
+$539,"United Airlines, Hawaiian Airlines",2 stops,17h 06m,HNL,LAX,2023-07-13
+$397,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-13
+$318,Alaska Airlines,1 stop,23h 25m,HNL,LAX,2023-07-13
+$590,"United Airlines, Hawaiian Airlines",2 stops,16h 20m,HNL,LAX,2023-07-13
+$402,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-13
+$402,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-13
+$402,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-13
+$402,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-13
+$363,United Airlines,2 stops,20h 42m,HNL,LAX,2023-07-13
+$458,Alaska Airlines,1 stop,20h 59m,HNL,LAX,2023-07-13
+$404,United Airlines,1 stop,22h 10m,HNL,LAX,2023-07-13
+$404,United Airlines,1 stop,20h 31m,HNL,LAX,2023-07-13
+$404,United Airlines,1 stop,22h 15m,HNL,LAX,2023-07-13
+$953,Alaska Airlines,2 stops,12h 28m,HNL,LAX,2023-07-13
+$586,"United Airlines, Hawaiian Airlines",1 stop,17h 00m,HNL,LAX,2023-07-13
+$487,"United Airlines, Alaska Airlines",1 stop,18h 40m,HNL,LAX,2023-07-13
+$381,United Airlines,1 stop,22h 35m,HNL,LAX,2023-07-13
+$428,Alaska Airlines,1 stop,22h 00m,HNL,LAX,2023-07-13
+$773,American Airlines,1 stop,14h 18m,HNL,LAX,2023-07-13
+$384,United Airlines,2 stops,22h 14m,HNL,LAX,2023-07-13
+$586,"United Airlines, Hawaiian Airlines",1 stop,18h 45m,HNL,LAX,2023-07-13
+$508,"United Airlines, Alaska Airlines",1 stop,20h 14m,HNL,LAX,2023-07-13
+$353,United Airlines,2 stops,22h 57m,HNL,LAX,2023-07-13
+$363,United Airlines,2 stops,21h 25m,HNL,LAX,2023-07-13
+$590,"United Airlines, Hawaiian Airlines",2 stops,17h 16m,HNL,LAX,2023-07-13
+$363,United Airlines,2 stops,23h 22m,HNL,LAX,2023-07-13
+$404,United Airlines,1 stop,23h 11m,HNL,LAX,2023-07-13
+$381,United Airlines,1 stop,23h 30m,HNL,LAX,2023-07-13
+$438,American Airlines,1 stop,22h 41m,HNL,LAX,2023-07-13
+$675,American Airlines,2 stops,18h 31m,HNL,LAX,2023-07-13
+$503,American Airlines,1 stop,21h 49m,HNL,LAX,2023-07-13
+"$1,173",Delta,1 stop,10h 20m,HNL,LAX,2023-07-13
+$596,American Airlines,2 stops,20h 04m,HNL,LAX,2023-07-13
+$403,United Airlines,2 stops,23h 09m,HNL,LAX,2023-07-13
+$381,United Airlines,1 stop,23h 56m,HNL,LAX,2023-07-13
+$340,United Airlines,1 stop,24h 37m,HNL,LAX,2023-07-13
+$407,American Airlines,1 stop,23h 56m,HNL,LAX,2023-07-13
+$363,United Airlines,2 stops,22h 41m,HNL,LAX,2023-07-13
+$829,American Airlines,1 stop,15h 12m,HNL,LAX,2023-07-13
+$363,United Airlines,2 stops,23h 05m,HNL,LAX,2023-07-13
+$340,United Airlines,1 stop,25h 32m,HNL,LAX,2023-07-13
+$382,United Airlines,1 stop,24h 54m,HNL,LAX,2023-07-13
+$404,United Airlines,1 stop,24h 38m,HNL,LAX,2023-07-13
+$399,American Airlines,2 stops,24h 33m,HNL,LAX,2023-07-13
+$407,American Airlines,1 stop,24h 53m,HNL,LAX,2023-07-13
+$340,United Airlines,1 stop,25h 58m,HNL,LAX,2023-07-13
+$382,United Airlines,1 stop,25h 39m,HNL,LAX,2023-07-13
+$363,United Airlines,2 stops,24h 01m,HNL,LAX,2023-07-13
+$404,United Airlines,1 stop,23h 41m,HNL,LAX,2023-07-13
+$443,American Airlines,2 stops,24h 33m,HNL,LAX,2023-07-13
+$363,United Airlines,2 stops,24h 20m,HNL,LAX,2023-07-13
+$381,United Airlines,1 stop,26h 02m,HNL,LAX,2023-07-13
+$969,Alaska Airlines,1 stop,16h 05m,HNL,LAX,2023-07-13
+$423,Alaska Airlines,1 stop,25h 35m,HNL,LAX,2023-07-13
+$368,Alaska Airlines,1 stop,24h 55m,HNL,LAX,2023-07-13
+$944,Alaska Airlines,1 stop,16h 40m,HNL,LAX,2023-07-13
+$382,United Airlines,1 stop,26h 22m,HNL,LAX,2023-07-13
+$381,United Airlines,1 stop,26h 22m,HNL,LAX,2023-07-13
+$438,Alaska Airlines,1 stop,25h 30m,HNL,LAX,2023-07-13
+$610,"United Airlines, Hawaiian Airlines",1 stop,22h 20m,HNL,LAX,2023-07-13
+$764,"United Airlines, Hawaiian Airlines",1 stop,19h 50m,HNL,LAX,2023-07-13
+$381,United Airlines,1 stop,26h 48m,HNL,LAX,2023-07-13
+$300,United Airlines,1 stop,28h 21m,HNL,LAX,2023-07-13
+$459,American Airlines,1 stop,25h 46m,HNL,LAX,2023-07-13
+$459,American Airlines,1 stop,25h 53m,HNL,LAX,2023-07-13
+$428,Alaska Airlines,1 stop,26h 19m,HNL,LAX,2023-07-13
+$381,United Airlines,1 stop,27h 08m,HNL,LAX,2023-07-13
+"$1,173",Delta,1 stop,12h 05m,HNL,LAX,2023-07-13
+$300,United Airlines,1 stop,28h 45m,HNL,LAX,2023-07-13
+$404,United Airlines,1 stop,26h 55m,HNL,LAX,2023-07-13
+$340,United Airlines,1 stop,28h 04m,HNL,LAX,2023-07-13
+$897,Alaska Airlines,1 stop,18h 40m,HNL,LAX,2023-07-13
+$829,American Airlines,1 stop,18h 24m,HNL,LAX,2023-07-13
+$378,Alaska Airlines,1 stop,27h 48m,HNL,LAX,2023-07-13
+$340,United Airlines,1 stop,28h 24m,HNL,LAX,2023-07-13
+$381,United Airlines,1 stop,27h 53m,HNL,LAX,2023-07-13
+$564,American Airlines,2 stops,24h 33m,HNL,LAX,2023-07-13
+$459,American Airlines,1 stop,26h 39m,HNL,LAX,2023-07-13
+$914,Alaska Airlines,1 stop,18h 59m,HNL,LAX,2023-07-13
+$338,Alaska Airlines,1 stop,27h 25m,HNL,LAX,2023-07-13
+$340,United Airlines,1 stop,28h 50m,HNL,LAX,2023-07-13
+$820,United Airlines,1 stop,18h 50m,HNL,LAX,2023-07-13
+$494,American Airlines,1 stop,26h 30m,HNL,LAX,2023-07-13
+$917,American Airlines,1 stop,17h 30m,HNL,LAX,2023-07-13
+$399,American Airlines,2 stops,27h 38m,HNL,LAX,2023-07-13
+$399,American Airlines,2 stops,27h 38m,HNL,LAX,2023-07-13
+$399,American Airlines,2 stops,27h 45m,HNL,LAX,2023-07-13
+$408,Alaska Airlines,1 stop,28h 05m,HNL,LAX,2023-07-13
+$300,United Airlines,1 stop,30h 00m,HNL,LAX,2023-07-13
+$340,United Airlines,1 stop,29h 10m,HNL,LAX,2023-07-13
+$382,United Airlines,1 stop,28h 58m,HNL,LAX,2023-07-13
+$381,United Airlines,1 stop,28h 49m,HNL,LAX,2023-07-13
+"$1,125",American Airlines,1 stop,16h 26m,HNL,LAX,2023-07-13
+$610,"United Airlines, Hawaiian Airlines",1 stop,24h 34m,HNL,LAX,2023-07-13
+$340,United Airlines,1 stop,29h 55m,HNL,LAX,2023-07-13
+$463,American Airlines,2 stops,27h 45m,HNL,LAX,2023-07-13
+$428,Alaska Airlines,1 stop,28h 59m,HNL,LAX,2023-07-13
+$308,Alaska Airlines,1 stop,29h 44m,HNL,LAX,2023-07-13
+$318,Alaska Airlines,1 stop,30h 34m,HNL,LAX,2023-07-13
+$378,Alaska Airlines,1 stop,30h 24m,HNL,LAX,2023-07-13
+$459,American Airlines,1 stop,28h 58m,HNL,LAX,2023-07-13
+$610,"United Airlines, Hawaiian Airlines",1 stop,26h 10m,HNL,LAX,2023-07-13
+$658,American Airlines,2 stops,25h 41m,HNL,LAX,2023-07-13
+$512,American Airlines,1 stop,28h 31m,HNL,LAX,2023-07-13
+$399,American Airlines,2 stops,30h 50m,HNL,LAX,2023-07-13
+$589,American Airlines,2 stops,27h 45m,HNL,LAX,2023-07-13
+$544,American Airlines,1 stop,29h 00m,HNL,LAX,2023-07-13
+$438,Alaska Airlines,1 stop,30h 50m,HNL,LAX,2023-07-13
+$418,Alaska Airlines,1 stop,31h 24m,HNL,LAX,2023-07-13
+$399,American Airlines,2 stops,31h 22m,HNL,LAX,2023-07-13
+$610,American Airlines,2 stops,28h 16m,HNL,LAX,2023-07-13
+$553,American Airlines,2 stops,29h 15m,HNL,LAX,2023-07-13
+$553,American Airlines,2 stops,30h 15m,HNL,LAX,2023-07-13
+"$1,139",American Airlines,1 stop,21h 07m,HNL,LAX,2023-07-13
+$404,American Airlines,2 stops,33h 07m,HNL,LAX,2023-07-13
+$553,American Airlines,2 stops,31h 00m,HNL,LAX,2023-07-13
+"$1,168",American Airlines,1 stop,21h 21m,HNL,LAX,2023-07-13
+$399,American Airlines,2 stops,34h 34m,HNL,LAX,2023-07-13
+$553,American Airlines,2 stops,32h 16m,HNL,LAX,2023-07-13
+$658,American Airlines,2 stops,30h 50m,HNL,LAX,2023-07-13
+$404,American Airlines,2 stops,36h 19m,HNL,LAX,2023-07-13
+"$1,502",United Airlines,1 stop,17h 40m,HNL,LAX,2023-07-13
+"$1,571",United Airlines,1 stop,16h 56m,HNL,LAX,2023-07-13
+"$1,009",United Airlines,1 stop,26h 33m,HNL,LAX,2023-07-13
+"$1,026",Alaska Airlines,1 stop,28h 40m,HNL,LAX,2023-07-13
+Info,Southwest,nonstop,5h 45m,HNL,LAX,2023-07-13
+Info,Southwest,1 stop,7h 50m,HNL,LAX,2023-07-13
+$260,United Airlines,nonstop,5h 30m,HNL,LAX,2023-07-14
+$326,United Airlines,nonstop,5h 31m,HNL,LAX,2023-07-14
+$326,United Airlines,nonstop,5h 38m,HNL,LAX,2023-07-14
+$326,United Airlines,nonstop,5h 40m,HNL,LAX,2023-07-14
+$360,Delta,nonstop,5h 45m,HNL,LAX,2023-07-14
+$400,United Airlines,nonstop,5h 40m,HNL,LAX,2023-07-14
+$489,Alaska Airlines,nonstop,6h 10m,HNL,LAX,2023-07-14
+$550,American Airlines,nonstop,5h 47m,HNL,LAX,2023-07-14
+$550,American Airlines,nonstop,5h 55m,HNL,LAX,2023-07-14
+$630,American Airlines,nonstop,5h 46m,HNL,LAX,2023-07-14
+$681,Delta,nonstop,5h 36m,HNL,LAX,2023-07-14
+$315,Hawaiian Airlines,1 stop,10h 03m,HNL,LAX,2023-07-14
+$438,American Airlines,1 stop,8h 55m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,8h 30m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,8h 32m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,8h 55m,HNL,LAX,2023-07-14
+$411,United Airlines,1 stop,10h 14m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,8h 57m,HNL,LAX,2023-07-14
+$411,United Airlines,1 stop,10h 22m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,9h 10m,HNL,LAX,2023-07-14
+$411,United Airlines,1 stop,10h 38m,HNL,LAX,2023-07-14
+$395,United Airlines,1 stop,11h 00m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,9h 40m,HNL,LAX,2023-07-14
+$395,United Airlines,1 stop,11h 36m,HNL,LAX,2023-07-14
+$489,American Airlines,1 stop,10h 40m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,10h 25m,HNL,LAX,2023-07-14
+$469,United Airlines,1 stop,11h 16m,HNL,LAX,2023-07-14
+$411,United Airlines,1 stop,11h 53m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,10h 39m,HNL,LAX,2023-07-14
+$411,United Airlines,1 stop,12h 16m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,7h 46m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,7h 50m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,7h 49m,HNL,LAX,2023-07-14
+$371,Hawaiian Airlines,1 stop,10h 39m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,8h 05m,HNL,LAX,2023-07-14
+$411,United Airlines,1 stop,10h 14m,HNL,LAX,2023-07-14
+$605,Hawaiian Airlines,1 stop,7h 36m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,8h 30m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,8h 32m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,8h 27m,HNL,LAX,2023-07-14
+$508,"United Airlines, Hawaiian Airlines",1 stop,9h 00m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,8h 33m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,8h 37m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,8h 40m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,8h 44m,HNL,LAX,2023-07-14
+$411,United Airlines,1 stop,10h 14m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,8h 57m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,8h 53m,HNL,LAX,2023-07-14
+$411,United Airlines,1 stop,10h 22m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,9h 05m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,9h 10m,HNL,LAX,2023-07-14
+$395,United Airlines,1 stop,10h 41m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,9h 09m,HNL,LAX,2023-07-14
+$411,United Airlines,1 stop,10h 38m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,9h 20m,HNL,LAX,2023-07-14
+$395,United Airlines,1 stop,11h 00m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,9h 40m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,9h 39m,HNL,LAX,2023-07-14
+$605,Hawaiian Airlines,1 stop,8h 50m,HNL,LAX,2023-07-14
+$411,United Airlines,1 stop,11h 05m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,9h 20m,HNL,LAX,2023-07-14
+$395,United Airlines,1 stop,11h 00m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,9h 40m,HNL,LAX,2023-07-14
+$385,Alaska Airlines,1 stop,11h 15m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,9h 39m,HNL,LAX,2023-07-14
+$605,Hawaiian Airlines,1 stop,8h 50m,HNL,LAX,2023-07-14
+$411,United Airlines,1 stop,11h 05m,HNL,LAX,2023-07-14
+$438,United Airlines,1 stop,10h 51m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,9h 48m,HNL,LAX,2023-07-14
+$364,Hawaiian Airlines,1 stop,11h 24m,HNL,LAX,2023-07-14
+$467,Alaska Airlines,1 stop,10h 45m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,9h 57m,HNL,LAX,2023-07-14
+$395,United Airlines,1 stop,11h 36m,HNL,LAX,2023-07-14
+$304,Hawaiian Airlines,1 stop,12h 23m,HNL,LAX,2023-07-14
+$605,Hawaiian Airlines,1 stop,9h 22m,HNL,LAX,2023-07-14
+$489,American Airlines,1 stop,10h 40m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,10h 13m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,10h 25m,HNL,LAX,2023-07-14
+$469,United Airlines,1 stop,11h 16m,HNL,LAX,2023-07-14
+$411,United Airlines,1 stop,11h 53m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,10h 39m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,10h 35m,HNL,LAX,2023-07-14
+$605,Hawaiian Airlines,1 stop,9h 50m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,10h 49m,HNL,LAX,2023-07-14
+$591,Alaska Airlines,1 stop,10h 15m,HNL,LAX,2023-07-14
+$411,United Airlines,1 stop,12h 16m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,10h 55m,HNL,LAX,2023-07-14
+$485,United Airlines,1 stop,11h 34m,HNL,LAX,2023-07-14
+$467,Alaska Airlines,1 stop,11h 50m,HNL,LAX,2023-07-14
+$487,"United Airlines, Alaska Airlines",1 stop,11h 15m,HNL,LAX,2023-07-14
+$586,"United Airlines, Hawaiian Airlines",1 stop,9h 35m,HNL,LAX,2023-07-14
+$533,"United Airlines, Hawaiian Airlines",1 stop,11h 18m,HNL,LAX,2023-07-14
+$411,United Airlines,1 stop,12h 40m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,11h 24m,HNL,LAX,2023-07-14
+$462,JetBlue,1 stop,12h 20m,HNL,LAX,2023-07-14
+$395,United Airlines,1 stop,13h 06m,HNL,LAX,2023-07-14
+$548,Alaska Airlines,1 stop,11h 30m,HNL,LAX,2023-07-14
+$507,Alaska Airlines,1 stop,12h 03m,HNL,LAX,2023-07-14
+$586,"United Airlines, Hawaiian Airlines",1 stop,11h 20m,HNL,LAX,2023-07-14
+$654,Hawaiian Airlines,1 stop,10h 33m,HNL,LAX,2023-07-14
+$438,Alaska Airlines,1 stop,13h 04m,HNL,LAX,2023-07-14
+$384,United Airlines,2 stops,13h 17m,HNL,LAX,2023-07-14
+$411,United Airlines,1 stop,13h 41m,HNL,LAX,2023-07-14
+$395,United Airlines,1 stop,14h 01m,HNL,LAX,2023-07-14
+$544,Alaska Airlines,1 stop,12h 25m,HNL,LAX,2023-07-14
+$411,United Airlines,1 stop,13h 55m,HNL,LAX,2023-07-14
+$600,"United Airlines, Alaska Airlines",1 stop,11h 35m,HNL,LAX,2023-07-14
+$690,Delta,1 stop,10h 57m,HNL,LAX,2023-07-14
+$654,Hawaiian Airlines,1 stop,11h 20m,HNL,LAX,2023-07-14
+$644,American Airlines,2 stops,11h 03m,HNL,LAX,2023-07-14
+$384,United Airlines,2 stops,14h 00m,HNL,LAX,2023-07-14
+$469,United Airlines,1 stop,13h 33m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,13h 03m,HNL,LAX,2023-07-14
+$494,United Airlines,2 stops,13h 01m,HNL,LAX,2023-07-14
+$654,Hawaiian Airlines,1 stop,11h 40m,HNL,LAX,2023-07-14
+$438,Alaska Airlines,1 stop,14h 09m,HNL,LAX,2023-07-14
+$561,Alaska Airlines,1 stop,12h 45m,HNL,LAX,2023-07-14
+$640,Alaska Airlines,2 stops,11h 30m,HNL,LAX,2023-07-14
+$644,American Airlines,2 stops,11h 28m,HNL,LAX,2023-07-14
+$639,American Airlines,1 stop,11h 58m,HNL,LAX,2023-07-14
+$502,Alaska Airlines,2 stops,13h 19m,HNL,LAX,2023-07-14
+$494,United Airlines,2 stops,13h 25m,HNL,LAX,2023-07-14
+$430,Alaska Airlines,2 stops,14h 10m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,13h 47m,HNL,LAX,2023-07-14
+$469,United Airlines,1 stop,14h 28m,HNL,LAX,2023-07-14
+$430,Alaska Airlines,2 stops,14h 10m,HNL,LAX,2023-07-14
+$644,American Airlines,2 stops,12h 11m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,13h 58m,HNL,LAX,2023-07-14
+$545,"United Airlines, Alaska Airlines",2 stops,13h 07m,HNL,LAX,2023-07-14
+$539,Alaska Airlines,2 stops,13h 34m,HNL,LAX,2023-07-14
+$539,Alaska Airlines,2 stops,13h 34m,HNL,LAX,2023-07-14
+$588,Alaska Airlines,2 stops,13h 00m,HNL,LAX,2023-07-14
+$365,Alaska Airlines,1 stop,15h 43m,HNL,LAX,2023-07-14
+$375,United Airlines,1 stop,16h 11m,HNL,LAX,2023-07-14
+$714,American Airlines,2 stops,11h 46m,HNL,LAX,2023-07-14
+$614,Alaska Airlines,2 stops,12h 55m,HNL,LAX,2023-07-14
+$476,Alaska Airlines,2 stops,14h 10m,HNL,LAX,2023-07-14
+$584,Alaska Airlines,2 stops,13h 25m,HNL,LAX,2023-07-14
+$586,"United Airlines, Alaska Airlines",2 stops,13h 07m,HNL,LAX,2023-07-14
+$420,United Airlines,2 stops,15h 16m,HNL,LAX,2023-07-14
+$420,United Airlines,2 stops,15h 16m,HNL,LAX,2023-07-14
+$739,Alaska Airlines,2 stops,11h 48m,HNL,LAX,2023-07-14
+$690,Delta,1 stop,12h 53m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,14h 46m,HNL,LAX,2023-07-14
+$514,Alaska Airlines,1 stop,14h 55m,HNL,LAX,2023-07-14
+$395,United Airlines,1 stop,16h 16m,HNL,LAX,2023-07-14
+$375,United Airlines,1 stop,16h 42m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,14h 52m,HNL,LAX,2023-07-14
+$591,Alaska Airlines,1 stop,14h 10m,HNL,LAX,2023-07-14
+$570,"United Airlines, Alaska Airlines",1 stop,14h 05m,HNL,LAX,2023-07-14
+$420,United Airlines,2 stops,15h 40m,HNL,LAX,2023-07-14
+$420,United Airlines,2 stops,15h 40m,HNL,LAX,2023-07-14
+$586,"United Airlines, Alaska Airlines",2 stops,13h 34m,HNL,LAX,2023-07-14
+$531,Alaska Airlines,1 stop,15h 04m,HNL,LAX,2023-07-14
+$526,American Airlines,1 stop,15h 14m,HNL,LAX,2023-07-14
+$714,American Airlines,2 stops,12h 48m,HNL,LAX,2023-07-14
+$714,American Airlines,2 stops,12h 50m,HNL,LAX,2023-07-14
+$417,Alaska Airlines,2 stops,16h 10m,HNL,LAX,2023-07-14
+$417,Alaska Airlines,2 stops,16h 10m,HNL,LAX,2023-07-14
+$481,Alaska Airlines,2 stops,15h 10m,HNL,LAX,2023-07-14
+$384,United Airlines,2 stops,16h 36m,HNL,LAX,2023-07-14
+$605,"United Airlines, Alaska Airlines",2 stops,13h 55m,HNL,LAX,2023-07-14
+$347,Alaska Airlines,1 stop,17h 43m,HNL,LAX,2023-07-14
+$586,"United Airlines, Hawaiian Airlines",1 stop,14h 55m,HNL,LAX,2023-07-14
+$408,Alaska Airlines,2 stops,16h 40m,HNL,LAX,2023-07-14
+$539,Alaska Airlines,2 stops,15h 19m,HNL,LAX,2023-07-14
+$614,Alaska Airlines,2 stops,14h 35m,HNL,LAX,2023-07-14
+$558,Alaska Airlines,2 stops,15h 19m,HNL,LAX,2023-07-14
+$408,Alaska Airlines,2 stops,16h 40m,HNL,LAX,2023-07-14
+$563,Alaska Airlines,2 stops,15h 19m,HNL,LAX,2023-07-14
+$644,Alaska Airlines,2 stops,14h 25m,HNL,LAX,2023-07-14
+$420,United Airlines,2 stops,16h 55m,HNL,LAX,2023-07-14
+$420,United Airlines,2 stops,16h 55m,HNL,LAX,2023-07-14
+$469,United Airlines,1 stop,15h 55m,HNL,LAX,2023-07-14
+$469,United Airlines,1 stop,16h 53m,HNL,LAX,2023-07-14
+$693,Alaska Airlines,2 stops,13h 58m,HNL,LAX,2023-07-14
+$545,"United Airlines, Alaska Airlines",2 stops,15h 24m,HNL,LAX,2023-07-14
+$627,"United Airlines, Alaska Airlines",1 stop,13h 59m,HNL,LAX,2023-07-14
+$731,United Airlines,1 stop,13h 02m,HNL,LAX,2023-07-14
+$584,Alaska Airlines,2 stops,15h 25m,HNL,LAX,2023-07-14
+$690,Alaska Airlines,2 stops,14h 25m,HNL,LAX,2023-07-14
+$613,"United Airlines, Alaska Airlines",1 stop,14h 24m,HNL,LAX,2023-07-14
+$484,Alaska Airlines,1 stop,17h 14m,HNL,LAX,2023-07-14
+$739,Alaska Airlines,2 stops,13h 58m,HNL,LAX,2023-07-14
+$586,"United Airlines, Alaska Airlines",2 stops,15h 24m,HNL,LAX,2023-07-14
+$591,"United Airlines, Alaska Airlines",2 stops,15h 24m,HNL,LAX,2023-07-14
+$540,"United Airlines, Alaska Airlines",1 stop,16h 24m,HNL,LAX,2023-07-14
+$736,American Airlines,1 stop,13h 26m,HNL,LAX,2023-07-14
+$708,Alaska Airlines,2 stops,14h 28m,HNL,LAX,2023-07-14
+$758,Alaska Airlines,2 stops,13h 58m,HNL,LAX,2023-07-14
+$604,"United Airlines, Alaska Airlines",2 stops,15h 24m,HNL,LAX,2023-07-14
+$381,United Airlines,1 stop,18h 48m,HNL,LAX,2023-07-14
+$640,Alaska Airlines,2 stops,15h 25m,HNL,LAX,2023-07-14
+$545,"United Airlines, Alaska Airlines",2 stops,16h 19m,HNL,LAX,2023-07-14
+$644,American Airlines,2 stops,15h 34m,HNL,LAX,2023-07-14
+$534,"United Airlines, Hawaiian Airlines",1 stop,16h 10m,HNL,LAX,2023-07-14
+"$1,173",Delta,1 stop,10h 20m,HNL,LAX,2023-07-14
+$758,Alaska Airlines,2 stops,14h 35m,HNL,LAX,2023-07-14
+$395,Alaska Airlines,2 stops,18h 40m,HNL,LAX,2023-07-14
+$395,Alaska Airlines,2 stops,18h 40m,HNL,LAX,2023-07-14
+$528,"United Airlines, Hawaiian Airlines",1 stop,16h 20m,HNL,LAX,2023-07-14
+$493,"United Airlines, Hawaiian Airlines",2 stops,16h 20m,HNL,LAX,2023-07-14
+$575,"United Airlines, Alaska Airlines",2 stops,16h 25m,HNL,LAX,2023-07-14
+$586,"United Airlines, Alaska Airlines",2 stops,16h 19m,HNL,LAX,2023-07-14
+$378,Alaska Airlines,2 stops,18h 59m,HNL,LAX,2023-07-14
+$736,American Airlines,1 stop,14h 18m,HNL,LAX,2023-07-14
+$591,"United Airlines, Alaska Airlines",2 stops,16h 19m,HNL,LAX,2023-07-14
+$605,"United Airlines, Alaska Airlines",2 stops,16h 10m,HNL,LAX,2023-07-14
+$605,"United Airlines, Alaska Airlines",2 stops,16h 10m,HNL,LAX,2023-07-14
+$604,"United Airlines, Alaska Airlines",2 stops,16h 19m,HNL,LAX,2023-07-14
+$467,Alaska Airlines,1 stop,18h 40m,HNL,LAX,2023-07-14
+$644,American Airlines,2 stops,16h 18m,HNL,LAX,2023-07-14
+$378,Alaska Airlines,2 stops,18h 59m,HNL,LAX,2023-07-14
+$384,Alaska Airlines,2 stops,18h 59m,HNL,LAX,2023-07-14
+$586,"United Airlines, Hawaiian Airlines",1 stop,17h 09m,HNL,LAX,2023-07-14
+$414,Alaska Airlines,2 stops,18h 40m,HNL,LAX,2023-07-14
+"$1,002",Alaska Airlines,2 stops,12h 28m,HNL,LAX,2023-07-14
+$402,Alaska Airlines,2 stops,18h 59m,HNL,LAX,2023-07-14
+$402,Alaska Airlines,2 stops,18h 59m,HNL,LAX,2023-07-14
+$381,United Airlines,1 stop,20h 09m,HNL,LAX,2023-07-14
+$574,"United Airlines, Hawaiian Airlines",2 stops,16h 10m,HNL,LAX,2023-07-14
+$415,Alaska Airlines,2 stops,18h 59m,HNL,LAX,2023-07-14
+$469,United Airlines,1 stop,19h 08m,HNL,LAX,2023-07-14
+$493,"United Airlines, Hawaiian Airlines",2 stops,17h 16m,HNL,LAX,2023-07-14
+$381,United Airlines,1 stop,20h 29m,HNL,LAX,2023-07-14
+$744,"United Airlines, Hawaiian Airlines",1 stop,15h 00m,HNL,LAX,2023-07-14
+$590,"United Airlines, Hawaiian Airlines",2 stops,16h 20m,HNL,LAX,2023-07-14
+$724,"United Airlines, Hawaiian Airlines",1 stop,15h 19m,HNL,LAX,2023-07-14
+$420,United Airlines,2 stops,19h 45m,HNL,LAX,2023-07-14
+$586,"United Airlines, Hawaiian Airlines",1 stop,17h 00m,HNL,LAX,2023-07-14
+$479,United Airlines,1 stop,19h 45m,HNL,LAX,2023-07-14
+$627,"United Airlines, Alaska Airlines",1 stop,17h 49m,HNL,LAX,2023-07-14
+$381,United Airlines,1 stop,20h 55m,HNL,LAX,2023-07-14
+$574,"United Airlines, Hawaiian Airlines",2 stops,17h 06m,HNL,LAX,2023-07-14
+$402,Alaska Airlines,2 stops,19h 59m,HNL,LAX,2023-07-14
+$381,United Airlines,1 stop,21h 15m,HNL,LAX,2023-07-14
+$421,Alaska Airlines,2 stops,19h 59m,HNL,LAX,2023-07-14
+$365,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-14
+$365,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-14
+$365,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-14
+$586,"United Airlines, Hawaiian Airlines",1 stop,18h 45m,HNL,LAX,2023-07-14
+$590,"United Airlines, Hawaiian Airlines",2 stops,17h 16m,HNL,LAX,2023-07-14
+$384,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-14
+$384,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-14
+$493,"United Airlines, Hawaiian Airlines",2 stops,18h 30m,HNL,LAX,2023-07-14
+$397,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-14
+$736,American Airlines,1 stop,16h 38m,HNL,LAX,2023-07-14
+$404,United Airlines,1 stop,20h 31m,HNL,LAX,2023-07-14
+$381,United Airlines,1 stop,22h 00m,HNL,LAX,2023-07-14
+$458,Alaska Airlines,1 stop,20h 59m,HNL,LAX,2023-07-14
+$382,United Airlines,1 stop,22h 07m,HNL,LAX,2023-07-14
+$567,"United Airlines, Alaska Airlines",1 stop,18h 39m,HNL,LAX,2023-07-14
+"$1,173",Delta,1 stop,12h 05m,HNL,LAX,2023-07-14
+$633,"United Airlines, Alaska Airlines",1 stop,19h 14m,HNL,LAX,2023-07-14
+$574,"United Airlines, Hawaiian Airlines",2 stops,18h 20m,HNL,LAX,2023-07-14
+$533,American Airlines,1 stop,20h 45m,HNL,LAX,2023-07-14
+$981,Alaska Airlines,1 stop,14h 39m,HNL,LAX,2023-07-14
+$590,"United Airlines, Hawaiian Airlines",2 stops,18h 30m,HNL,LAX,2023-07-14
+$736,American Airlines,1 stop,17h 30m,HNL,LAX,2023-07-14
+$533,American Airlines,1 stop,21h 05m,HNL,LAX,2023-07-14
+$489,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-14
+$489,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-14
+$427,United Airlines,2 stops,21h 51m,HNL,LAX,2023-07-14
+$381,United Airlines,1 stop,22h 56m,HNL,LAX,2023-07-14
+$444,United Airlines,2 stops,20h 42m,HNL,LAX,2023-07-14
+$973,American Airlines,1 stop,15h 12m,HNL,LAX,2023-07-14
+$420,United Airlines,2 stops,22h 02m,HNL,LAX,2023-07-14
+$418,United Airlines,1 stop,22h 35m,HNL,LAX,2023-07-14
+$609,American Airlines,1 stop,20h 44m,HNL,LAX,2023-07-14
+$479,United Airlines,1 stop,22h 10m,HNL,LAX,2023-07-14
+$999,Alaska Airlines,1 stop,16h 10m,HNL,LAX,2023-07-14
+$479,United Airlines,1 stop,22h 15m,HNL,LAX,2023-07-14
+$375,United Airlines,2 stops,22h 57m,HNL,LAX,2023-07-14
+$648,"United Airlines, Alaska Airlines",1 stop,20h 14m,HNL,LAX,2023-07-14
+$990,Alaska Airlines,1 stop,16h 40m,HNL,LAX,2023-07-14
+$444,United Airlines,2 stops,21h 25m,HNL,LAX,2023-07-14
+$553,American Airlines,1 stop,21h 49m,HNL,LAX,2023-07-14
+"$1,467",American Airlines,2 stops,10h 59m,HNL,LAX,2023-07-14
+$681,American Airlines,2 stops,20h 04m,HNL,LAX,2023-07-14
+$609,American Airlines,1 stop,21h 41m,HNL,LAX,2023-07-14
+$427,United Airlines,2 stops,23h 12m,HNL,LAX,2023-07-14
+$333,United Airlines,1 stop,23h 41m,HNL,LAX,2023-07-14
+$764,"United Airlines, Hawaiian Airlines",1 stop,19h 50m,HNL,LAX,2023-07-14
+$541,American Airlines,1 stop,22h 46m,HNL,LAX,2023-07-14
+$404,United Airlines,1 stop,24h 21m,HNL,LAX,2023-07-14
+"$1,128",American Airlines,1 stop,16h 26m,HNL,LAX,2023-07-14
+"$1,064",Alaska Airlines,1 stop,17h 19m,HNL,LAX,2023-07-14
+$444,United Airlines,2 stops,22h 41m,HNL,LAX,2023-07-14
+"$1,122",Alaska Airlines,2 stops,16h 08m,HNL,LAX,2023-07-14
+"$1,125",United Airlines,1 stop,15h 29m,HNL,LAX,2023-07-14
+$588,"United Airlines, Alaska Airlines",1 stop,22h 29m,HNL,LAX,2023-07-14
+$418,United Airlines,1 stop,24h 37m,HNL,LAX,2023-07-14
+$418,United Airlines,1 stop,24h 41m,HNL,LAX,2023-07-14
+$609,American Airlines,1 stop,22h 41m,HNL,LAX,2023-07-14
+$444,United Airlines,2 stops,23h 00m,HNL,LAX,2023-07-14
+$444,United Airlines,2 stops,23h 05m,HNL,LAX,2023-07-14
+$418,United Airlines,1 stop,24h 54m,HNL,LAX,2023-07-14
+"$1,467",American Airlines,2 stops,12h 44m,HNL,LAX,2023-07-14
+$960,Alaska Airlines,1 stop,18h 59m,HNL,LAX,2023-07-14
+$382,United Airlines,1 stop,25h 39m,HNL,LAX,2023-07-14
+$453,United Airlines,2 stops,24h 32m,HNL,LAX,2023-07-14
+$479,United Airlines,1 stop,24h 40m,HNL,LAX,2023-07-14
+$479,United Airlines,1 stop,24h 38m,HNL,LAX,2023-07-14
+$563,American Airlines,1 stop,23h 56m,HNL,LAX,2023-07-14
+$434,United Airlines,2 stops,23h 31m,HNL,LAX,2023-07-14
+$434,United Airlines,2 stops,23h 31m,HNL,LAX,2023-07-14
+$458,United Airlines,2 stops,23h 15m,HNL,LAX,2023-07-14
+"$1,055",Alaska Airlines,1 stop,18h 44m,HNL,LAX,2023-07-14
+$444,United Airlines,2 stops,24h 01m,HNL,LAX,2023-07-14
+$382,United Airlines,1 stop,26h 22m,HNL,LAX,2023-07-14
+$418,United Airlines,1 stop,26h 02m,HNL,LAX,2023-07-14
+$444,United Airlines,2 stops,24h 20m,HNL,LAX,2023-07-14
+$418,United Airlines,1 stop,26h 22m,HNL,LAX,2023-07-14
+$563,American Airlines,1 stop,24h 53m,HNL,LAX,2023-07-14
+$564,United Airlines,2 stops,24h 32m,HNL,LAX,2023-07-14
+$404,United Airlines,1 stop,26h 46m,HNL,LAX,2023-07-14
+$418,United Airlines,1 stop,26h 43m,HNL,LAX,2023-07-14
+$338,United Airlines,1 stop,27h 31m,HNL,LAX,2023-07-14
+$418,United Airlines,1 stop,26h 48m,HNL,LAX,2023-07-14
+$659,American Airlines,2 stops,23h 53m,HNL,LAX,2023-07-14
+$597,American Airlines,1 stop,25h 00m,HNL,LAX,2023-07-14
+$659,American Airlines,2 stops,23h 57m,HNL,LAX,2023-07-14
+$333,United Airlines,1 stop,26h 33m,HNL,LAX,2023-07-14
+$636,American Airlines,1 stop,24h 36m,HNL,LAX,2023-07-14
+$610,"United Airlines, Hawaiian Airlines",1 stop,24h 34m,HNL,LAX,2023-07-14
+$614,American Airlines,2 stops,24h 33m,HNL,LAX,2023-07-14
+$614,American Airlines,2 stops,24h 33m,HNL,LAX,2023-07-14
+$418,United Airlines,1 stop,27h 08m,HNL,LAX,2023-07-14
+$620,American Airlines,2 stops,24h 33m,HNL,LAX,2023-07-14
+$378,Alaska Airlines,1 stop,27h 48m,HNL,LAX,2023-07-14
+$659,American Airlines,2 stops,24h 22m,HNL,LAX,2023-07-14
+$563,American Airlines,1 stop,25h 53m,HNL,LAX,2023-07-14
+$382,United Airlines,1 stop,27h 57m,HNL,LAX,2023-07-14
+$597,American Airlines,1 stop,25h 43m,HNL,LAX,2023-07-14
+$468,Alaska Airlines,1 stop,26h 13m,HNL,LAX,2023-07-14
+$381,United Airlines,1 stop,28h 21m,HNL,LAX,2023-07-14
+"$1,078",Alaska Airlines,1 stop,20h 34m,HNL,LAX,2023-07-14
+$418,United Airlines,1 stop,27h 53m,HNL,LAX,2023-07-14
+$659,American Airlines,2 stops,25h 05m,HNL,LAX,2023-07-14
+$418,United Airlines,1 stop,28h 04m,HNL,LAX,2023-07-14
+$636,American Airlines,1 stop,25h 46m,HNL,LAX,2023-07-14
+$598,American Airlines,1 stop,26h 09m,HNL,LAX,2023-07-14
+$381,United Airlines,1 stop,28h 45m,HNL,LAX,2023-07-14
+$434,United Airlines,2 stops,26h 23m,HNL,LAX,2023-07-14
+$434,United Airlines,2 stops,26h 23m,HNL,LAX,2023-07-14
+$458,United Airlines,2 stops,26h 07m,HNL,LAX,2023-07-14
+$382,United Airlines,1 stop,28h 58m,HNL,LAX,2023-07-14
+$418,United Airlines,1 stop,28h 24m,HNL,LAX,2023-07-14
+$448,Alaska Airlines,1 stop,27h 25m,HNL,LAX,2023-07-14
+"$1,790",American Airlines,2 stops,12h 52m,HNL,LAX,2023-07-14
+$659,American Airlines,2 stops,25h 46m,HNL,LAX,2023-07-14
+$418,United Airlines,1 stop,28h 49m,HNL,LAX,2023-07-14
+$418,United Airlines,1 stop,28h 50m,HNL,LAX,2023-07-14
+$404,United Airlines,1 stop,29h 14m,HNL,LAX,2023-07-14
+$636,American Airlines,1 stop,26h 39m,HNL,LAX,2023-07-14
+"$1,143",American Airlines,1 stop,21h 06m,HNL,LAX,2023-07-14
+$418,United Airlines,1 stop,29h 10m,HNL,LAX,2023-07-14
+$338,United Airlines,1 stop,29h 56m,HNL,LAX,2023-07-14
+$563,American Airlines,1 stop,27h 48m,HNL,LAX,2023-07-14
+$597,American Airlines,1 stop,27h 36m,HNL,LAX,2023-07-14
+$381,United Airlines,1 stop,30h 00m,HNL,LAX,2023-07-14
+$432,Alaska Airlines,2 stops,28h 45m,HNL,LAX,2023-07-14
+$550,American Airlines,2 stops,27h 45m,HNL,LAX,2023-07-14
+$338,United Airlines,1 stop,30h 23m,HNL,LAX,2023-07-14
+$488,Alaska Airlines,1 stop,29h 05m,HNL,LAX,2023-07-14
+$745,American Airlines,1 stop,26h 06m,HNL,LAX,2023-07-14
+$568,American Airlines,2 stops,27h 45m,HNL,LAX,2023-07-14
+$568,American Airlines,2 stops,27h 45m,HNL,LAX,2023-07-14
+$418,United Airlines,1 stop,29h 55m,HNL,LAX,2023-07-14
+"$1,048",Alaska Airlines,1 stop,23h 09m,HNL,LAX,2023-07-14
+"$1,218",American Airlines,1 stop,21h 21m,HNL,LAX,2023-07-14
+$620,American Airlines,2 stops,27h 38m,HNL,LAX,2023-07-14
+$620,American Airlines,2 stops,27h 38m,HNL,LAX,2023-07-14
+$563,American Airlines,1 stop,28h 58m,HNL,LAX,2023-07-14
+$641,American Airlines,2 stops,27h 38m,HNL,LAX,2023-07-14
+$418,Alaska Airlines,1 stop,29h 44m,HNL,LAX,2023-07-14
+$597,American Airlines,1 stop,28h 40m,HNL,LAX,2023-07-14
+$597,American Airlines,1 stop,28h 49m,HNL,LAX,2023-07-14
+"$1,502",United Airlines,1 stop,17h 40m,HNL,LAX,2023-07-14
+"$1,571",United Airlines,1 stop,16h 56m,HNL,LAX,2023-07-14
+$636,American Airlines,1 stop,28h 31m,HNL,LAX,2023-07-14
+$597,American Airlines,1 stop,29h 00m,HNL,LAX,2023-07-14
+$633,"United Airlines, Alaska Airlines",1 stop,28h 35m,HNL,LAX,2023-07-14
+$659,American Airlines,2 stops,28h 28m,HNL,LAX,2023-07-14
+$657,American Airlines,2 stops,28h 40m,HNL,LAX,2023-07-14
+$659,American Airlines,2 stops,29h 01m,HNL,LAX,2023-07-14
+$659,American Airlines,2 stops,29h 12m,HNL,LAX,2023-07-14
+$597,American Airlines,1 stop,30h 41m,HNL,LAX,2023-07-14
+$550,American Airlines,2 stops,30h 50m,HNL,LAX,2023-07-14
+$745,American Airlines,1 stop,29h 11m,HNL,LAX,2023-07-14
+$620,American Airlines,2 stops,31h 22m,HNL,LAX,2023-07-14
+$628,American Airlines,2 stops,33h 07m,HNL,LAX,2023-07-14
+$928,Alaska Airlines,1 stop,30h 45m,HNL,LAX,2023-07-14
+$550,American Airlines,2 stops,34h 34m,HNL,LAX,2023-07-14
+$557,American Airlines,2 stops,36h 19m,HNL,LAX,2023-07-14
+"$3,874",American Airlines,1 stop,9h 38m,HNL,LAX,2023-07-14
+"$3,874",American Airlines,1 stop,11h 31m,HNL,LAX,2023-07-14
+Info,Southwest,nonstop,5h 45m,HNL,LAX,2023-07-14
+Info,Southwest,1 stop,7h 50m,HNL,LAX,2023-07-14
+Info,Southwest,1 stop,8h 00m,HNL,LAX,2023-07-14
+Info,Southwest,1 stop,8h 10m,HNL,LAX,2023-07-14
+Info,Southwest,1 stop,8h 15m,HNL,LAX,2023-07-14
+Info,Southwest,1 stop,8h 25m,HNL,LAX,2023-07-14
+Info,Southwest,1 stop,8h 30m,HNL,LAX,2023-07-14
+Info,Southwest,1 stop,8h 45m,HNL,LAX,2023-07-14
+Info,Southwest,1 stop,9h 15m,HNL,LAX,2023-07-14
+Info,Southwest,1 stop,10h 10m,HNL,LAX,2023-07-14
+$257,United Airlines,nonstop,5h 38m,HNL,LAX,2023-07-15
+$305,United Airlines,nonstop,5h 30m,HNL,LAX,2023-07-15
+$366,United Airlines,nonstop,5h 40m,HNL,LAX,2023-07-15
+$388,United Airlines,nonstop,5h 40m,HNL,LAX,2023-07-15
+$409,Alaska Airlines,nonstop,6h 10m,HNL,LAX,2023-07-15
+$450,Delta,nonstop,5h 50m,HNL,LAX,2023-07-15
+$438,United Airlines,1 stop,7h 35m,HNL,LAX,2023-07-15
+$394,United Airlines,1 stop,8h 24m,HNL,LAX,2023-07-15
+$600,American Airlines,nonstop,5h 47m,HNL,LAX,2023-07-15
+$600,American Airlines,nonstop,5h 55m,HNL,LAX,2023-07-15
+$315,Hawaiian Airlines,1 stop,9h 50m,HNL,LAX,2023-07-15
+$438,United Airlines,1 stop,8h 46m,HNL,LAX,2023-07-15
+$438,United Airlines,1 stop,8h 58m,HNL,LAX,2023-07-15
+$681,Delta,nonstop,5h 36m,HNL,LAX,2023-07-15
+$498,United Airlines,1 stop,8h 30m,HNL,LAX,2023-07-15
+$375,United Airlines,1 stop,10h 45m,HNL,LAX,2023-07-15
+$329,United Airlines,1 stop,11h 16m,HNL,LAX,2023-07-15
+$329,United Airlines,1 stop,11h 56m,HNL,LAX,2023-07-15
+$777,American Airlines,nonstop,5h 46m,HNL,LAX,2023-07-15
+$584,American Airlines,1 stop,8h 32m,HNL,LAX,2023-07-15
+$576,American Airlines,1 stop,8h 55m,HNL,LAX,2023-07-15
+$459,United Airlines,1 stop,10h 51m,HNL,LAX,2023-07-15
+$584,American Airlines,1 stop,8h 57m,HNL,LAX,2023-07-15
+$469,United Airlines,1 stop,11h 00m,HNL,LAX,2023-07-15
+$485,United Airlines,1 stop,10h 49m,HNL,LAX,2023-07-15
+$576,American Airlines,1 stop,9h 38m,HNL,LAX,2023-07-15
+$584,American Airlines,1 stop,9h 40m,HNL,LAX,2023-07-15
+$609,American Airlines,1 stop,9h 27m,HNL,LAX,2023-07-15
+$539,American Airlines,1 stop,10h 40m,HNL,LAX,2023-07-15
+$329,United Airlines,1 stop,13h 37m,HNL,LAX,2023-07-15
+$533,"United Airlines, Hawaiian Airlines",1 stop,7h 49m,HNL,LAX,2023-07-15
+$533,"United Airlines, Hawaiian Airlines",1 stop,7h 52m,HNL,LAX,2023-07-15
+$498,United Airlines,1 stop,8h 30m,HNL,LAX,2023-07-15
+$533,"United Airlines, Hawaiian Airlines",1 stop,8h 05m,HNL,LAX,2023-07-15
+$375,United Airlines,1 stop,10h 45m,HNL,LAX,2023-07-15
+$400,Alaska Airlines,1 stop,11h 04m,HNL,LAX,2023-07-15
+$533,"United Airlines, Hawaiian Airlines",1 stop,8h 27m,HNL,LAX,2023-07-15
+$533,"United Airlines, Hawaiian Airlines",1 stop,8h 28m,HNL,LAX,2023-07-15
+$619,"United Airlines, Hawaiian Airlines",1 stop,7h 46m,HNL,LAX,2023-07-15
+$533,"United Airlines, Hawaiian Airlines",1 stop,8h 37m,HNL,LAX,2023-07-15
+$623,"United Airlines, Hawaiian Airlines",1 stop,7h 50m,HNL,LAX,2023-07-15
+$533,"United Airlines, Hawaiian Airlines",1 stop,8h 40m,HNL,LAX,2023-07-15
+$528,"United Airlines, Hawaiian Airlines",1 stop,8h 55m,HNL,LAX,2023-07-15
+$493,Alaska Airlines,1 stop,9h 29m,HNL,LAX,2023-07-15
+$558,United Airlines,1 stop,8h 45m,HNL,LAX,2023-07-15
+$533,"United Airlines, Hawaiian Airlines",1 stop,9h 05m,HNL,LAX,2023-07-15
+$584,American Airlines,1 stop,8h 32m,HNL,LAX,2023-07-15
+$533,"United Airlines, Hawaiian Airlines",1 stop,9h 20m,HNL,LAX,2023-07-15
+$576,American Airlines,1 stop,8h 55m,HNL,LAX,2023-07-15
+$459,United Airlines,1 stop,10h 51m,HNL,LAX,2023-07-15
+$584,American Airlines,1 stop,8h 57m,HNL,LAX,2023-07-15
+$533,"United Airlines, Hawaiian Airlines",1 stop,9h 48m,HNL,LAX,2023-07-15
+$675,Hawaiian Airlines,1 stop,7h 36m,HNL,LAX,2023-07-15
+$619,"United Airlines, Hawaiian Airlines",1 stop,8h 33m,HNL,LAX,2023-07-15
+$469,United Airlines,1 stop,11h 00m,HNL,LAX,2023-07-15
+$567,"United Airlines, Alaska Airlines",1 stop,8h 59m,HNL,LAX,2023-07-15
+$485,United Airlines,1 stop,10h 49m,HNL,LAX,2023-07-15
+$465,Alaska Airlines,1 stop,11h 14m,HNL,LAX,2023-07-15
+$623,"United Airlines, Hawaiian Airlines",1 stop,8h 44m,HNL,LAX,2023-07-15
+$533,"United Airlines, Hawaiian Airlines",1 stop,10h 13m,HNL,LAX,2023-07-15
+$619,"United Airlines, Hawaiian Airlines",1 stop,8h 53m,HNL,LAX,2023-07-15
+$407,JetBlue,1 stop,12h 20m,HNL,LAX,2023-07-15
+$576,American Airlines,1 stop,9h 38m,HNL,LAX,2023-07-15
+$528,Alaska Airlines,1 stop,10h 30m,HNL,LAX,2023-07-15
+$584,American Airlines,1 stop,9h 40m,HNL,LAX,2023-07-15
+$533,"United Airlines, Hawaiian Airlines",1 stop,10h 35m,HNL,LAX,2023-07-15
+$623,"United Airlines, Hawaiian Airlines",1 stop,9h 09m,HNL,LAX,2023-07-15
+$609,American Airlines,1 stop,9h 27m,HNL,LAX,2023-07-15
+$539,American Airlines,1 stop,10h 40m,HNL,LAX,2023-07-15
+$485,United Airlines,1 stop,11h 34m,HNL,LAX,2023-07-15
+$329,United Airlines,1 stop,13h 37m,HNL,LAX,2023-07-15
+$574,United Airlines,1 stop,10h 14m,HNL,LAX,2023-07-15
+$533,"United Airlines, Hawaiian Airlines",1 stop,10h 55m,HNL,LAX,2023-07-15
+$395,United Airlines,1 stop,13h 06m,HNL,LAX,2023-07-15
+$619,"United Airlines, Hawaiian Airlines",1 stop,9h 39m,HNL,LAX,2023-07-15
+$675,Hawaiian Airlines,1 stop,8h 50m,HNL,LAX,2023-07-15
+$561,Alaska Airlines,1 stop,10h 45m,HNL,LAX,2023-07-15
+$329,United Airlines,1 stop,14h 01m,HNL,LAX,2023-07-15
+$574,United Airlines,1 stop,10h 38m,HNL,LAX,2023-07-15
+$623,"United Airlines, Hawaiian Airlines",1 stop,9h 57m,HNL,LAX,2023-07-15
+$485,United Airlines,1 stop,12h 16m,HNL,LAX,2023-07-15
+$532,Alaska Airlines,1 stop,11h 30m,HNL,LAX,2023-07-15
+$675,Hawaiian Airlines,1 stop,9h 22m,HNL,LAX,2023-07-15
+$574,United Airlines,1 stop,11h 05m,HNL,LAX,2023-07-15
+$623,"United Airlines, Hawaiian Airlines",1 stop,10h 22m,HNL,LAX,2023-07-15
+$485,United Airlines,1 stop,12h 40m,HNL,LAX,2023-07-15
+$467,Alaska Airlines,1 stop,13h 05m,HNL,LAX,2023-07-15
+$329,United Airlines,1 stop,14h 48m,HNL,LAX,2023-07-15
+$576,American Airlines,1 stop,11h 24m,HNL,LAX,2023-07-15
+$586,"United Airlines, Hawaiian Airlines",1 stop,11h 20m,HNL,LAX,2023-07-15
+$675,Hawaiian Airlines,1 stop,9h 50m,HNL,LAX,2023-07-15
+$576,American Airlines,1 stop,11h 31m,HNL,LAX,2023-07-15
+$567,"United Airlines, Alaska Airlines",1 stop,11h 14m,HNL,LAX,2023-07-15
+$666,United Airlines,1 stop,10h 22m,HNL,LAX,2023-07-15
+$574,United Airlines,1 stop,11h 53m,HNL,LAX,2023-07-15
+$619,"United Airlines, Hawaiian Airlines",1 stop,11h 18m,HNL,LAX,2023-07-15
+$531,Alaska Airlines,1 stop,13h 04m,HNL,LAX,2023-07-15
+$494,United Airlines,2 stops,13h 17m,HNL,LAX,2023-07-15
+$643,United Airlines,2 stops,11h 02m,HNL,LAX,2023-07-15
+$673,United Airlines,2 stops,10h 37m,HNL,LAX,2023-07-15
+$574,United Airlines,1 stop,12h 40m,HNL,LAX,2023-07-15
+$324,United Airlines,1 stop,16h 16m,HNL,LAX,2023-07-15
+$690,Delta,1 stop,10h 57m,HNL,LAX,2023-07-15
+$715,Hawaiian Airlines,1 stop,10h 33m,HNL,LAX,2023-07-15
+$375,United Airlines,1 stop,16h 11m,HNL,LAX,2023-07-15
+$347,Alaska Airlines,1 stop,16h 43m,HNL,LAX,2023-07-15
+$420,United Airlines,2 stops,15h 16m,HNL,LAX,2023-07-15
+$438,Alaska Airlines,1 stop,15h 24m,HNL,LAX,2023-07-15
+$584,American Airlines,1 stop,13h 03m,HNL,LAX,2023-07-15
+$643,United Airlines,2 stops,11h 45m,HNL,LAX,2023-07-15
+$545,"United Airlines, Alaska Airlines",2 stops,13h 07m,HNL,LAX,2023-07-15
+$731,United Airlines,1 stop,10h 55m,HNL,LAX,2023-07-15
+$548,"United Airlines, Alaska Airlines",2 stops,13h 07m,HNL,LAX,2023-07-15
+$329,United Airlines,1 stop,16h 53m,HNL,LAX,2023-07-15
+$420,United Airlines,2 stops,15h 40m,HNL,LAX,2023-07-15
+$715,Hawaiian Airlines,1 stop,11h 20m,HNL,LAX,2023-07-15
+$574,United Airlines,1 stop,13h 41m,HNL,LAX,2023-07-15
+$583,United Airlines,2 stops,13h 17m,HNL,LAX,2023-07-15
+$694,American Airlines,2 stops,11h 35m,HNL,LAX,2023-07-15
+$684,Alaska Airlines,1 stop,12h 08m,HNL,LAX,2023-07-15
+$715,Hawaiian Airlines,1 stop,11h 40m,HNL,LAX,2023-07-15
+$584,American Airlines,1 stop,13h 47m,HNL,LAX,2023-07-15
+$411,United Airlines,1 stop,16h 42m,HNL,LAX,2023-07-15
+$576,American Airlines,1 stop,13h 58m,HNL,LAX,2023-07-15
+$456,Alaska Airlines,2 stops,15h 05m,HNL,LAX,2023-07-15
+$643,American Airlines,2 stops,12h 48m,HNL,LAX,2023-07-15
+$694,American Airlines,2 stops,12h 00m,HNL,LAX,2023-07-15
+$597,"United Airlines, Alaska Airlines",2 stops,13h 09m,HNL,LAX,2023-07-15
+$992,Hawaiian Airlines,1 stop,7h 39m,HNL,LAX,2023-07-15
+$731,United Airlines,1 stop,11h 52m,HNL,LAX,2023-07-15
+$550,Alaska Airlines,2 stops,14h 25m,HNL,LAX,2023-07-15
+$715,Hawaiian Airlines,1 stop,12h 26m,HNL,LAX,2023-07-15
+$643,American Airlines,2 stops,13h 13m,HNL,LAX,2023-07-15
+$690,Delta,1 stop,12h 53m,HNL,LAX,2023-07-15
+$576,American Airlines,1 stop,14h 46m,HNL,LAX,2023-07-15
+$420,United Airlines,2 stops,16h 55m,HNL,LAX,2023-07-15
+$329,United Airlines,1 stop,18h 35m,HNL,LAX,2023-07-15
+$694,American Airlines,2 stops,12h 43m,HNL,LAX,2023-07-15
+$584,American Airlines,1 stop,14h 52m,HNL,LAX,2023-07-15
+$992,Hawaiian Airlines,1 stop,8h 30m,HNL,LAX,2023-07-15
+$605,Alaska Airlines,2 stops,14h 20m,HNL,LAX,2023-07-15
+$576,American Airlines,1 stop,15h 14m,HNL,LAX,2023-07-15
+$643,American Airlines,2 stops,13h 56m,HNL,LAX,2023-07-15
+$344,Alaska Airlines,1 stop,18h 40m,HNL,LAX,2023-07-15
+$597,"United Airlines, Alaska Airlines",2 stops,14h 20m,HNL,LAX,2023-07-15
+$667,Alaska Airlines,1 stop,14h 05m,HNL,LAX,2023-07-15
+$586,"United Airlines, Hawaiian Airlines",1 stop,15h 08m,HNL,LAX,2023-07-15
+$635,"United Airlines, Alaska Airlines",2 stops,13h 50m,HNL,LAX,2023-07-15
+$324,United Airlines,1 stop,19h 08m,HNL,LAX,2023-07-15
+$592,Alaska Airlines,2 stops,15h 05m,HNL,LAX,2023-07-15
+$545,"United Airlines, Alaska Airlines",2 stops,15h 28m,HNL,LAX,2023-07-15
+$992,Hawaiian Airlines,1 stop,9h 10m,HNL,LAX,2023-07-15
+$554,"United Airlines, Alaska Airlines",2 stops,15h 28m,HNL,LAX,2023-07-15
+$746,Alaska Airlines,2 stops,13h 05m,HNL,LAX,2023-07-15
+$418,United Airlines,1 stop,18h 48m,HNL,LAX,2023-07-15
+$567,"United Airlines, Alaska Airlines",2 stops,15h 28m,HNL,LAX,2023-07-15
+$338,United Airlines,1 stop,19h 45m,HNL,LAX,2023-07-15
+$418,United Airlines,1 stop,19h 08m,HNL,LAX,2023-07-15
+$992,Hawaiian Airlines,1 stop,10h 03m,HNL,LAX,2023-07-15
+$764,American Airlines,2 stops,13h 22m,HNL,LAX,2023-07-15
+$586,"United Airlines, Hawaiian Airlines",1 stop,16h 06m,HNL,LAX,2023-07-15
+$382,United Airlines,1 stop,20h 02m,HNL,LAX,2023-07-15
+$567,"United Airlines, Alaska Airlines",1 stop,16h 39m,HNL,LAX,2023-07-15
+$713,"United Airlines, Alaska Airlines",2 stops,13h 50m,HNL,LAX,2023-07-15
+$613,"United Airlines, Alaska Airlines",1 stop,14h 24m,HNL,LAX,2023-07-15
+$685,United Airlines,2 stops,14h 21m,HNL,LAX,2023-07-15
+$736,"United Airlines, Alaska Airlines",2 stops,13h 36m,HNL,LAX,2023-07-15
+$889,American Airlines,1 stop,11h 58m,HNL,LAX,2023-07-15
+$731,United Airlines,1 stop,13h 02m,HNL,LAX,2023-07-15
+$554,"United Airlines, Alaska Airlines",2 stops,16h 39m,HNL,LAX,2023-07-15
+$614,United Airlines,2 stops,15h 40m,HNL,LAX,2023-07-15
+$575,"United Airlines, Alaska Airlines",2 stops,16h 25m,HNL,LAX,2023-07-15
+$992,Hawaiian Airlines,1 stop,10h 39m,HNL,LAX,2023-07-15
+$567,"United Airlines, Alaska Airlines",2 stops,16h 39m,HNL,LAX,2023-07-15
+$534,"United Airlines, Hawaiian Airlines",1 stop,16h 10m,HNL,LAX,2023-07-15
+$365,Alaska Airlines,2 stops,19h 59m,HNL,LAX,2023-07-15
+$365,Alaska Airlines,2 stops,19h 59m,HNL,LAX,2023-07-15
+$365,Alaska Airlines,2 stops,19h 59m,HNL,LAX,2023-07-15
+$365,Alaska Airlines,2 stops,19h 59m,HNL,LAX,2023-07-15
+$328,Alaska Airlines,1 stop,20h 59m,HNL,LAX,2023-07-15
+$420,United Airlines,2 stops,19h 45m,HNL,LAX,2023-07-15
+$603,"United Airlines, Alaska Airlines",2 stops,16h 25m,HNL,LAX,2023-07-15
+$420,United Airlines,2 stops,19h 57m,HNL,LAX,2023-07-15
+$634,"United Airlines, Alaska Airlines",2 stops,16h 01m,HNL,LAX,2023-07-15
+$418,United Airlines,1 stop,20h 29m,HNL,LAX,2023-07-15
+$539,"United Airlines, Hawaiian Airlines",2 stops,16h 10m,HNL,LAX,2023-07-15
+$640,"United Airlines, Alaska Airlines",2 stops,16h 01m,HNL,LAX,2023-07-15
+$635,"United Airlines, Alaska Airlines",2 stops,16h 05m,HNL,LAX,2023-07-15
+$635,"United Airlines, Alaska Airlines",2 stops,16h 05m,HNL,LAX,2023-07-15
+$567,"United Airlines, Alaska Airlines",1 stop,17h 49m,HNL,LAX,2023-07-15
+$716,Alaska Airlines,2 stops,15h 24m,HNL,LAX,2023-07-15
+$716,Alaska Airlines,2 stops,15h 24m,HNL,LAX,2023-07-15
+$813,Alaska Airlines,1 stop,14h 14m,HNL,LAX,2023-07-15
+$992,Hawaiian Airlines,1 stop,11h 24m,HNL,LAX,2023-07-15
+$722,Alaska Airlines,2 stops,15h 24m,HNL,LAX,2023-07-15
+$404,United Airlines,1 stop,21h 05m,HNL,LAX,2023-07-15
+$685,United Airlines,2 stops,15h 35m,HNL,LAX,2023-07-15
+$418,United Airlines,1 stop,20h 55m,HNL,LAX,2023-07-15
+$338,United Airlines,1 stop,22h 20m,HNL,LAX,2023-07-15
+$653,"United Airlines, Alaska Airlines",2 stops,16h 25m,HNL,LAX,2023-07-15
+$418,United Airlines,1 stop,21h 15m,HNL,LAX,2023-07-15
+$676,"United Airlines, Alaska Airlines",2 stops,16h 11m,HNL,LAX,2023-07-15
+$643,American Airlines,2 stops,17h 19m,HNL,LAX,2023-07-15
+$382,United Airlines,1 stop,22h 07m,HNL,LAX,2023-07-15
+$549,"United Airlines, Hawaiian Airlines",2 stops,17h 06m,HNL,LAX,2023-07-15
+$719,"United Airlines, Alaska Airlines",2 stops,16h 05m,HNL,LAX,2023-07-15
+$718,"United Airlines, Delta",2 stops,16h 07m,HNL,LAX,2023-07-15
+$404,United Airlines,1 stop,22h 15m,HNL,LAX,2023-07-15
+$586,"United Airlines, Hawaiian Airlines",1 stop,18h 45m,HNL,LAX,2023-07-15
+$418,United Airlines,1 stop,22h 00m,HNL,LAX,2023-07-15
+$695,"United Airlines, Alaska Airlines",2 stops,16h 39m,HNL,LAX,2023-07-15
+$452,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-15
+$643,American Airlines,2 stops,18h 03m,HNL,LAX,2023-07-15
+$744,"United Airlines, Hawaiian Airlines",1 stop,15h 00m,HNL,LAX,2023-07-15
+$724,"United Airlines, Hawaiian Airlines",1 stop,15h 19m,HNL,LAX,2023-07-15
+$338,United Airlines,1 stop,23h 11m,HNL,LAX,2023-07-15
+$427,United Airlines,2 stops,21h 51m,HNL,LAX,2023-07-15
+"$1,173",Delta,1 stop,10h 20m,HNL,LAX,2023-07-15
+$420,United Airlines,2 stops,22h 06m,HNL,LAX,2023-07-15
+$427,United Airlines,2 stops,22h 11m,HNL,LAX,2023-07-15
+$420,United Airlines,2 stops,22h 18m,HNL,LAX,2023-07-15
+$418,United Airlines,1 stop,22h 56m,HNL,LAX,2023-07-15
+$559,American Airlines,1 stop,20h 44m,HNL,LAX,2023-07-15
+$375,United Airlines,2 stops,23h 17m,HNL,LAX,2023-07-15
+$503,American Airlines,1 stop,21h 49m,HNL,LAX,2023-07-15
+$458,United Airlines,2 stops,20h 05m,HNL,LAX,2023-07-15
+$708,"United Airlines, Hawaiian Airlines",2 stops,16h 15m,HNL,LAX,2023-07-15
+$338,United Airlines,1 stop,24h 21m,HNL,LAX,2023-07-15
+$722,Multiple airlines,2 stops,16h 15m,HNL,LAX,2023-07-15
+$588,"United Airlines, Alaska Airlines",1 stop,20h 24m,HNL,LAX,2023-07-15
+$404,United Airlines,2 stops,23h 29m,HNL,LAX,2023-07-15
+$591,American Airlines,1 stop,21h 05m,HNL,LAX,2023-07-15
+$750,"United Airlines, Hawaiian Airlines",2 stops,16h 10m,HNL,LAX,2023-07-15
+$559,American Airlines,1 stop,21h 41m,HNL,LAX,2023-07-15
+$338,United Airlines,1 stop,24h 38m,HNL,LAX,2023-07-15
+$444,United Airlines,2 stops,23h 22m,HNL,LAX,2023-07-15
+$427,United Airlines,2 stops,23h 48m,HNL,LAX,2023-07-15
+$588,"United Airlines, Alaska Airlines",1 stop,21h 20m,HNL,LAX,2023-07-15
+$404,United Airlines,1 stop,24h 50m,HNL,LAX,2023-07-15
+"$1,015",American Airlines,1 stop,13h 26m,HNL,LAX,2023-07-15
+$444,United Airlines,2 stops,24h 05m,HNL,LAX,2023-07-15
+$973,American Airlines,1 stop,14h 18m,HNL,LAX,2023-07-15
+$559,American Airlines,1 stop,22h 41m,HNL,LAX,2023-07-15
+$382,United Airlines,1 stop,25h 39m,HNL,LAX,2023-07-15
+$932,Alaska Airlines,2 stops,16h 44m,HNL,LAX,2023-07-15
+$338,United Airlines,1 stop,26h 21m,HNL,LAX,2023-07-15
+$591,American Airlines,1 stop,22h 46m,HNL,LAX,2023-07-15
+$941,Alaska Airlines,2 stops,16h 44m,HNL,LAX,2023-07-15
+$368,Alaska Airlines,1 stop,26h 25m,HNL,LAX,2023-07-15
+$930,Alaska Airlines,2 stops,16h 55m,HNL,LAX,2023-07-15
+$588,"United Airlines, Alaska Airlines",1 stop,22h 30m,HNL,LAX,2023-07-15
+$750,American Airlines,2 stops,20h 04m,HNL,LAX,2023-07-15
+$382,United Airlines,1 stop,26h 22m,HNL,LAX,2023-07-15
+$764,"United Airlines, Hawaiian Airlines",1 stop,19h 50m,HNL,LAX,2023-07-15
+$368,Alaska Airlines,1 stop,25h 05m,HNL,LAX,2023-07-15
+$909,Alaska Airlines,1 stop,18h 02m,HNL,LAX,2023-07-15
+"$1,173",Delta,1 stop,12h 05m,HNL,LAX,2023-07-15
+$610,"United Airlines, Hawaiian Airlines",1 stop,22h 33m,HNL,LAX,2023-07-15
+$909,Alaska Airlines,1 stop,16h 42m,HNL,LAX,2023-07-15
+$338,United Airlines,1 stop,26h 56m,HNL,LAX,2023-07-15
+$909,American Airlines,1 stop,16h 38m,HNL,LAX,2023-07-15
+$308,Alaska Airlines,1 stop,28h 05m,HNL,LAX,2023-07-15
+$338,United Airlines,1 stop,26h 59m,HNL,LAX,2023-07-15
+$458,United Airlines,2 stops,23h 15m,HNL,LAX,2023-07-15
+$308,Alaska Airlines,1 stop,26h 45m,HNL,LAX,2023-07-15
+$584,American Airlines,1 stop,23h 56m,HNL,LAX,2023-07-15
+$911,Alaska Airlines,1 stop,18h 44m,HNL,LAX,2023-07-15
+$338,United Airlines,1 stop,27h 31m,HNL,LAX,2023-07-15
+$889,American Airlines,1 stop,17h 30m,HNL,LAX,2023-07-15
+"$1,189",United Airlines,2 stops,14h 00m,HNL,LAX,2023-07-15
+$902,Alaska Airlines,2 stops,18h 40m,HNL,LAX,2023-07-15
+$404,United Airlines,1 stop,27h 08m,HNL,LAX,2023-07-15
+$868,Alaska Airlines,1 stop,19h 51m,HNL,LAX,2023-07-15
+$378,Alaska Airlines,1 stop,27h 48m,HNL,LAX,2023-07-15
+$378,Alaska Airlines,1 stop,26h 13m,HNL,LAX,2023-07-15
+$886,Alaska Airlines,2 stops,19h 14m,HNL,LAX,2023-07-15
+$610,"United Airlines, Hawaiian Airlines",1 stop,23h 31m,HNL,LAX,2023-07-15
+$608,American Airlines,2 stops,23h 57m,HNL,LAX,2023-07-15
+$584,American Airlines,1 stop,24h 36m,HNL,LAX,2023-07-15
+"$1,077",American Airlines,1 stop,15h 12m,HNL,LAX,2023-07-15
+$382,United Airlines,1 stop,27h 57m,HNL,LAX,2023-07-15
+$900,Alaska Airlines,2 stops,19h 14m,HNL,LAX,2023-07-15
+$584,American Airlines,1 stop,24h 53m,HNL,LAX,2023-07-15
+$338,United Airlines,1 stop,28h 10m,HNL,LAX,2023-07-15
+$608,American Airlines,2 stops,24h 22m,HNL,LAX,2023-07-15
+"$1,029",Alaska Airlines,2 stops,17h 43m,HNL,LAX,2023-07-15
+"$1,029",Alaska Airlines,2 stops,17h 43m,HNL,LAX,2023-07-15
+"$1,151",American Airlines,1 stop,16h 26m,HNL,LAX,2023-07-15
+$278,Alaska Airlines,1 stop,30h 24m,HNL,LAX,2023-07-15
+"$1,101",Alaska Airlines,2 stops,16h 55m,HNL,LAX,2023-07-15
+$418,United Airlines,1 stop,28h 21m,HNL,LAX,2023-07-15
+$278,Alaska Airlines,1 stop,29h 04m,HNL,LAX,2023-07-15
+$382,United Airlines,1 stop,28h 58m,HNL,LAX,2023-07-15
+$608,American Airlines,2 stops,25h 05m,HNL,LAX,2023-07-15
+"$1,125",United Airlines,1 stop,15h 29m,HNL,LAX,2023-07-15
+$584,American Airlines,1 stop,25h 46m,HNL,LAX,2023-07-15
+$338,United Airlines,1 stop,29h 14m,HNL,LAX,2023-07-15
+$584,American Airlines,1 stop,25h 53m,HNL,LAX,2023-07-15
+$418,United Airlines,1 stop,28h 45m,HNL,LAX,2023-07-15
+$872,Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-15
+$564,American Airlines,2 stops,26h 00m,HNL,LAX,2023-07-15
+$570,American Airlines,2 stops,26h 00m,HNL,LAX,2023-07-15
+$570,American Airlines,2 stops,26h 00m,HNL,LAX,2023-07-15
+$404,United Airlines,1 stop,29h 13m,HNL,LAX,2023-07-15
+$388,Alaska Airlines,1 stop,29h 30m,HNL,LAX,2023-07-15
+$608,American Airlines,2 stops,25h 44m,HNL,LAX,2023-07-15
+$589,American Airlines,2 stops,26h 00m,HNL,LAX,2023-07-15
+$402,Alaska Airlines,2 stops,28h 45m,HNL,LAX,2023-07-15
+$402,Alaska Airlines,2 stops,27h 10m,HNL,LAX,2023-07-15
+$338,United Airlines,1 stop,30h 06m,HNL,LAX,2023-07-15
+$404,United Airlines,1 stop,29h 29m,HNL,LAX,2023-07-15
+$584,American Airlines,1 stop,26h 39m,HNL,LAX,2023-07-15
+$338,United Airlines,1 stop,30h 15m,HNL,LAX,2023-07-15
+$458,Alaska Airlines,1 stop,29h 05m,HNL,LAX,2023-07-15
+$328,Alaska Airlines,1 stop,31h 10m,HNL,LAX,2023-07-15
+"$1,079",Alaska Airlines,2 stops,18h 40m,HNL,LAX,2023-07-15
+$610,"United Airlines, Hawaiian Airlines",1 stop,26h 10m,HNL,LAX,2023-07-15
+$648,American Airlines,1 stop,26h 09m,HNL,LAX,2023-07-15
+$418,United Airlines,1 stop,30h 00m,HNL,LAX,2023-07-15
+$404,United Airlines,1 stop,30h 23m,HNL,LAX,2023-07-15
+"$1,071",Alaska Airlines,2 stops,19h 14m,HNL,LAX,2023-07-15
+$999,Alaska Airlines,1 stop,19h 35m,HNL,LAX,2023-07-15
+$584,American Airlines,1 stop,27h 48m,HNL,LAX,2023-07-15
+$404,United Airlines,1 stop,30h 40m,HNL,LAX,2023-07-15
+$372,Alaska Airlines,2 stops,29h 29m,HNL,LAX,2023-07-15
+"$1,567",American Airlines,2 stops,12h 18m,HNL,LAX,2023-07-15
+$584,American Airlines,1 stop,28h 31m,HNL,LAX,2023-07-15
+$751,American Airlines,2 stops,25h 41m,HNL,LAX,2023-07-15
+$428,Alaska Airlines,1 stop,31h 24m,HNL,LAX,2023-07-15
+$928,Alaska Airlines,1 stop,23h 25m,HNL,LAX,2023-07-15
+"$1,049",Alaska Airlines,2 stops,20h 59m,HNL,LAX,2023-07-15
+$608,American Airlines,2 stops,28h 18m,HNL,LAX,2023-07-15
+$584,American Airlines,1 stop,28h 58m,HNL,LAX,2023-07-15
+$608,American Airlines,2 stops,28h 28m,HNL,LAX,2023-07-15
+$570,American Airlines,2 stops,29h 12m,HNL,LAX,2023-07-15
+$752,American Airlines,2 stops,26h 24m,HNL,LAX,2023-07-15
+$589,American Airlines,2 stops,29h 12m,HNL,LAX,2023-07-15
+"$1,567",American Airlines,2 stops,13h 31m,HNL,LAX,2023-07-15
+$594,American Airlines,2 stops,29h 12m,HNL,LAX,2023-07-15
+$608,American Airlines,2 stops,29h 12m,HNL,LAX,2023-07-15
+$608,American Airlines,2 stops,29h 12m,HNL,LAX,2023-07-15
+$647,American Airlines,1 stop,28h 49m,HNL,LAX,2023-07-15
+$570,American Airlines,2 stops,29h 47m,HNL,LAX,2023-07-15
+$418,Alaska Airlines,1 stop,32h 45m,HNL,LAX,2023-07-15
+$647,American Airlines,1 stop,29h 00m,HNL,LAX,2023-07-15
+"$1,168",American Airlines,1 stop,21h 07m,HNL,LAX,2023-07-15
+$660,American Airlines,2 stops,29h 01m,HNL,LAX,2023-07-15
+$660,American Airlines,2 stops,29h 29m,HNL,LAX,2023-07-15
+"$1,218",American Airlines,1 stop,21h 21m,HNL,LAX,2023-07-15
+$647,American Airlines,1 stop,30h 41m,HNL,LAX,2023-07-15
+$570,American Airlines,2 stops,31h 54m,HNL,LAX,2023-07-15
+"$1,788",American Airlines,2 stops,12h 37m,HNL,LAX,2023-07-15
+$988,Alaska Airlines,1 stop,26h 19m,HNL,LAX,2023-07-15
+$694,American Airlines,1 stop,31h 20m,HNL,LAX,2023-07-15
+$570,American Airlines,2 stops,32h 59m,HNL,LAX,2023-07-15
+$577,American Airlines,2 stops,33h 07m,HNL,LAX,2023-07-15
+"$1,788",American Airlines,2 stops,13h 50m,HNL,LAX,2023-07-15
+"$1,502",United Airlines,1 stop,17h 40m,HNL,LAX,2023-07-15
+"$1,571",United Airlines,1 stop,16h 56m,HNL,LAX,2023-07-15
+$938,Alaska Airlines,1 stop,28h 49m,HNL,LAX,2023-07-15
