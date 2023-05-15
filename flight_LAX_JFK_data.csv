@@ -12320,3 +12320,153 @@ $318,Alaska Airlines,1 stop,13h 00m,JFK,LAX,2023-08-30
 $529,Delta,nonstop,5h 45m,JFK,LAX,2023-08-30
 $448,JetBlue,1 stop,9h 01m,JFK,LAX,2023-08-30
 $378,American Airlines,2 stops,10h 44m,JFK,LAX,2023-08-30
+$178,American Airlines,nonstop,5h 36m,JFK,LAX,2023-07-31
+$178,American Airlines,nonstop,5h 36m,JFK,LAX,2023-07-31
+$231,American Airlines,nonstop,5h 36m,JFK,LAX,2023-07-31
+$211,American Airlines,nonstop,5h 38m,JFK,LAX,2023-07-31
+$249,American Airlines,nonstop,5h 46m,JFK,LAX,2023-07-31
+$256,American Airlines,nonstop,5h 42m,JFK,LAX,2023-07-31
+$256,American Airlines,nonstop,5h 44m,JFK,LAX,2023-07-31
+$249,American Airlines,nonstop,5h 36m,JFK,LAX,2023-07-31
+$299,American Airlines,nonstop,5h 40m,JFK,LAX,2023-07-31
+$192,JetBlue,1 stop,10h 16m,JFK,LAX,2023-07-31
+$309,American Airlines,1 stop,7h 11m,JFK,LAX,2023-07-31
+$259,American Airlines,1 stop,8h 09m,JFK,LAX,2023-07-31
+$364,American Airlines,nonstop,5h 37m,JFK,LAX,2023-07-31
+$364,American Airlines,nonstop,5h 42m,JFK,LAX,2023-07-31
+$257,American Airlines,1 stop,8h 10m,JFK,LAX,2023-07-31
+$309,American Airlines,1 stop,8h 00m,JFK,LAX,2023-07-31
+$309,American Airlines,1 stop,8h 51m,JFK,LAX,2023-07-31
+$309,American Airlines,1 stop,9h 04m,JFK,LAX,2023-07-31
+$279,American Airlines,1 stop,10h 09m,JFK,LAX,2023-07-31
+$309,American Airlines,1 stop,9h 22m,JFK,LAX,2023-07-31
+$309,American Airlines,1 stop,10h 09m,JFK,LAX,2023-07-31
+$434,American Airlines,nonstop,5h 46m,JFK,LAX,2023-07-31
+$372,American Airlines,1 stop,7h 58m,JFK,LAX,2023-07-31
+$309,American Airlines,1 stop,9h 03m,JFK,LAX,2023-07-31
+$374,American Airlines,1 stop,7h 59m,JFK,LAX,2023-07-31
+$374,American Airlines,1 stop,8h 26m,JFK,LAX,2023-07-31
+$374,American Airlines,1 stop,9h 14m,JFK,LAX,2023-07-31
+$374,American Airlines,1 stop,9h 37m,JFK,LAX,2023-07-31
+$394,Alaska Airlines,1 stop,9h 17m,JFK,LAX,2023-07-31
+$442,American Airlines,1 stop,7h 30m,JFK,LAX,2023-07-31
+$249,Delta,nonstop,5h 45m,JFK,LAX,2023-07-31
+$249,Delta,nonstop,5h 49m,JFK,LAX,2023-07-31
+$249,Delta,nonstop,5h 50m,JFK,LAX,2023-07-31
+$309,Delta,nonstop,5h 50m,JFK,LAX,2023-07-31
+$364,JetBlue,nonstop,5h 37m,JFK,LAX,2023-07-31
+$364,American Airlines,nonstop,5h 37m,JFK,LAX,2023-07-31
+$364,JetBlue,nonstop,5h 42m,JFK,LAX,2023-07-31
+$364,American Airlines,nonstop,5h 42m,JFK,LAX,2023-07-31
+$364,JetBlue,nonstop,5h 42m,JFK,LAX,2023-07-31
+$364,American Airlines,nonstop,5h 42m,JFK,LAX,2023-07-31
+$309,American Airlines,1 stop,7h 11m,JFK,LAX,2023-07-31
+$192,JetBlue,1 stop,10h 16m,JFK,LAX,2023-07-31
+$259,American Airlines,1 stop,8h 09m,JFK,LAX,2023-07-31
+$257,American Airlines,1 stop,8h 10m,JFK,LAX,2023-07-31
+$309,American Airlines,1 stop,8h 00m,JFK,LAX,2023-07-31
+$309,American Airlines,1 stop,8h 51m,JFK,LAX,2023-07-31
+$309,American Airlines,1 stop,9h 04m,JFK,LAX,2023-07-31
+$434,JetBlue,nonstop,5h 46m,JFK,LAX,2023-07-31
+$434,American Airlines,nonstop,5h 46m,JFK,LAX,2023-07-31
+$279,American Airlines,1 stop,10h 09m,JFK,LAX,2023-07-31
+$439,Delta,nonstop,5h 45m,JFK,LAX,2023-07-31
+$309,American Airlines,1 stop,9h 22m,JFK,LAX,2023-07-31
+$279,JetBlue,1 stop,10h 29m,JFK,LAX,2023-07-31
+$372,American Airlines,1 stop,7h 58m,JFK,LAX,2023-07-31
+$374,American Airlines,1 stop,7h 59m,JFK,LAX,2023-07-31
+$273,JetBlue,1 stop,10h 19m,JFK,LAX,2023-07-31
+$309,American Airlines,1 stop,10h 09m,JFK,LAX,2023-07-31
+$309,American Airlines,1 stop,9h 03m,JFK,LAX,2023-07-31
+$374,American Airlines,1 stop,8h 26m,JFK,LAX,2023-07-31
+$363,JetBlue,1 stop,7h 55m,JFK,LAX,2023-07-31
+$373,Alaska Airlines,1 stop,8h 45m,JFK,LAX,2023-07-31
+$333,JetBlue,1 stop,9h 06m,JFK,LAX,2023-07-31
+$283,American Airlines,2 stops,11h 34m,JFK,LAX,2023-07-31
+$283,American Airlines,2 stops,11h 34m,JFK,LAX,2023-07-31
+$374,American Airlines,1 stop,9h 14m,JFK,LAX,2023-07-31
+$313,American Airlines,2 stops,10h 50m,JFK,LAX,2023-07-31
+$393,Alaska Airlines,1 stop,9h 00m,JFK,LAX,2023-07-31
+$294,JetBlue,1 stop,11h 05m,JFK,LAX,2023-07-31
+$374,American Airlines,1 stop,9h 28m,JFK,LAX,2023-07-31
+$373,Alaska Airlines,1 stop,9h 44m,JFK,LAX,2023-07-31
+$308,JetBlue,1 stop,10h 48m,JFK,LAX,2023-07-31
+$442,American Airlines,1 stop,7h 30m,JFK,LAX,2023-07-31
+$374,American Airlines,1 stop,9h 37m,JFK,LAX,2023-07-31
+$278,JetBlue,1 stop,11h 36m,JFK,LAX,2023-07-31
+$394,Alaska Airlines,1 stop,9h 17m,JFK,LAX,2023-07-31
+$254,Delta,nonstop,5h 40m,JFK,LAX,2023-08-31
+$188,American Airlines,1 stop,8h 29m,JFK,LAX,2023-08-31
+$275,American Airlines,nonstop,5h 36m,JFK,LAX,2023-08-31
+$275,American Airlines,nonstop,5h 44m,JFK,LAX,2023-08-31
+$299,American Airlines,nonstop,5h 39m,JFK,LAX,2023-08-31
+$310,American Airlines,nonstop,5h 42m,JFK,LAX,2023-08-31
+$314,Delta,nonstop,5h 44m,JFK,LAX,2023-08-31
+$275,American Airlines,nonstop,5h 38m,JFK,LAX,2023-08-31
+$299,American Airlines,nonstop,5h 38m,JFK,LAX,2023-08-31
+$364,American Airlines,nonstop,5h 38m,JFK,LAX,2023-08-31
+$364,American Airlines,nonstop,5h 38m,JFK,LAX,2023-08-31
+$364,American Airlines,nonstop,5h 41m,JFK,LAX,2023-08-31
+$364,American Airlines,nonstop,5h 48m,JFK,LAX,2023-08-31
+$374,Delta,nonstop,5h 45m,JFK,LAX,2023-08-31
+$259,American Airlines,1 stop,7h 19m,JFK,LAX,2023-08-31
+$309,American Airlines,1 stop,7h 24m,JFK,LAX,2023-08-31
+$259,American Airlines,1 stop,8h 28m,JFK,LAX,2023-08-31
+$309,American Airlines,1 stop,8h 12m,JFK,LAX,2023-08-31
+$307,American Airlines,1 stop,8h 05m,JFK,LAX,2023-08-31
+$374,American Airlines,1 stop,7h 56m,JFK,LAX,2023-08-31
+$305,Sun Country Air,1 stop,7h 36m,JFK,LAX,2023-08-31
+$372,American Airlines,1 stop,7h 59m,JFK,LAX,2023-08-31
+$372,American Airlines,1 stop,8h 07m,JFK,LAX,2023-08-31
+$309,American Airlines,1 stop,9h 26m,JFK,LAX,2023-08-31
+$372,American Airlines,1 stop,8h 18m,JFK,LAX,2023-08-31
+$374,American Airlines,1 stop,8h 29m,JFK,LAX,2023-08-31
+$309,American Airlines,1 stop,9h 45m,JFK,LAX,2023-08-31
+$559,American Airlines,nonstop,5h 41m,JFK,LAX,2023-08-31
+$444,American Airlines,1 stop,7h 59m,JFK,LAX,2023-08-31
+$309,American Airlines,1 stop,10h 44m,JFK,LAX,2023-08-31
+$364,American Airlines,nonstop,5h 41m,JFK,LAX,2023-08-31
+$259,American Airlines,1 stop,7h 19m,JFK,LAX,2023-08-31
+$364,JetBlue,nonstop,5h 48m,JFK,LAX,2023-08-31
+$364,American Airlines,nonstop,5h 48m,JFK,LAX,2023-08-31
+$374,Delta,nonstop,5h 45m,JFK,LAX,2023-08-31
+$374,Delta,nonstop,5h 50m,JFK,LAX,2023-08-31
+$259,American Airlines,1 stop,8h 16m,JFK,LAX,2023-08-31
+$309,American Airlines,1 stop,7h 24m,JFK,LAX,2023-08-31
+$259,American Airlines,1 stop,8h 28m,JFK,LAX,2023-08-31
+$309,American Airlines,1 stop,8h 12m,JFK,LAX,2023-08-31
+$307,American Airlines,1 stop,8h 05m,JFK,LAX,2023-08-31
+$288,JetBlue,1 stop,7h 55m,JFK,LAX,2023-08-31
+$464,Delta,nonstop,5h 45m,JFK,LAX,2023-08-31
+$309,JetBlue,1 stop,8h 59m,JFK,LAX,2023-08-31
+$374,American Airlines,1 stop,7h 56m,JFK,LAX,2023-08-31
+$305,Sun Country Air,1 stop,7h 36m,JFK,LAX,2023-08-31
+$372,American Airlines,1 stop,7h 59m,JFK,LAX,2023-08-31
+$464,Delta,nonstop,5h 45m,JFK,LAX,2023-08-31
+$372,American Airlines,1 stop,8h 07m,JFK,LAX,2023-08-31
+$309,American Airlines,1 stop,9h 26m,JFK,LAX,2023-08-31
+$372,American Airlines,1 stop,8h 18m,JFK,LAX,2023-08-31
+$374,American Airlines,1 stop,8h 29m,JFK,LAX,2023-08-31
+$309,American Airlines,1 stop,9h 45m,JFK,LAX,2023-08-31
+$309,American Airlines,1 stop,9h 45m,JFK,LAX,2023-08-31
+$318,JetBlue,1 stop,9h 06m,JFK,LAX,2023-08-31
+$279,American Airlines,1 stop,10h 29m,JFK,LAX,2023-08-31
+$559,JetBlue,nonstop,5h 41m,JFK,LAX,2023-08-31
+$559,American Airlines,nonstop,5h 41m,JFK,LAX,2023-08-31
+$279,American Airlines,1 stop,10h 44m,JFK,LAX,2023-08-31
+$288,JetBlue,1 stop,10h 19m,JFK,LAX,2023-08-31
+$444,American Airlines,1 stop,7h 59m,JFK,LAX,2023-08-31
+$309,American Airlines,1 stop,10h 44m,JFK,LAX,2023-08-31
+$374,American Airlines,1 stop,9h 29m,JFK,LAX,2023-08-31
+$372,American Airlines,1 stop,9h 34m,JFK,LAX,2023-08-31
+$559,JetBlue,nonstop,5h 39m,JFK,LAX,2023-08-31
+$559,American Airlines,nonstop,5h 39m,JFK,LAX,2023-08-31
+$372,American Airlines,1 stop,9h 44m,JFK,LAX,2023-08-31
+$374,American Airlines,1 stop,9h 57m,JFK,LAX,2023-08-31
+$279,American Airlines,1 stop,11h 45m,JFK,LAX,2023-08-31
+$444,American Airlines,1 stop,8h 45m,JFK,LAX,2023-08-31
+$372,American Airlines,1 stop,10h 22m,JFK,LAX,2023-08-31
+$374,American Airlines,1 stop,10h 29m,JFK,LAX,2023-08-31
+$344,JetBlue,1 stop,10h 48m,JFK,LAX,2023-08-31
+$293,JetBlue,1 stop,11h 36m,JFK,LAX,2023-08-31
+$378,American Airlines,2 stops,10h 15m,JFK,LAX,2023-08-31
