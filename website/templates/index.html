@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flight Search</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Flight Search</h1>
+    <form id="flightForm" action="results.html">
+        <label for="departure">Departure Airport: LAX</label>
+        <br>
+        <label for="destination">Destination Airport:</label>
+        <select id="destination" name="destination" required>
+                <option value="HNL">Inouye International Airport, Honolulu</option>
+                <option value="DEN">Denver International Airport, Colorado</option>
+                <option value="DFW">Dallas/Fort Worth International Airport, Texas</option>
+                <option value="SFO">San Francisco International Airport, SF</option>
+                <option value="JFK">John F. Kennedy International Airport, New York</option>
+                <option value="ATL">Hartsfield–Jackson Atlanta International Airport, Atlanta</option>
+                <option value="CHI">O'Hare International Airport, Chicago</option>
+        </select><br>
+        <label for="date">Date:</label>
+        <input type="date" id="date" name="date" required><br><br>
+        <input type="submit" value="Search">
+    </form>
+    
+    <div id="resultContainer"></div>
+    <script src="script.js"></script>
+    <script>
+    // Fetch the prediction data from the server
+        fetch('/search', {
+            method: 'POST',
+            body: JSON.stringify({
+                departure: 'New York',
+                destination: 'London',
+                date: '2023-06-01',
+      // Pass the flight search parameters as needed
+    }),
+    headers: {
+      'Content-Type': 'application/json'
+    }
+  })
+  .then(response => response.json())
+  .then(data => {
+    // Extract the predicted price from the received data
+    const predictedPrice = data.predictedPrice;
+
+    // Display the predicted price on the page
+    const predictionContainer = document.getElementById('predictionContainer');
+    predictionContainer.textContent = `Predicted Price: $${predictedPrice}`;
+  })
+  .catch(error => {
+    console.error('Error:', error);
+  });
+</script>
+
+</body>
+</html>
