@@ -71,16 +71,12 @@ def predict():
             2:'DFW'
         }
     
-    print(duration, stops, destination, date)
-    
     destination = dest_encoding[destination]
     
     df = flights[(flights['Duration'] >= duration - 90) & (flights['Duration'] <= duration + 90)]
     df = df[flights['Stops'] == stops]
     df = df[flights['Destination'] == destination]
     df = df[flights['Date'] == date]
-    
-    print(df)
 
     fig = av.visualize_airports(airports[airports['Destination'] == destination],
                                 df,
