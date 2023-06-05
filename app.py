@@ -1,27 +1,97 @@
 from flask import Flask, request, render_template
 import pickle
+import json
+import plotly
+import airport_visualization as av
+import pandas as pd
+import numpy as np
+import preprocessing
+from datetime import datetime
+from sklearn.preprocessing import LabelEncoder
 
 app = Flask(__name__)
-model = pickle.load(open('model.pkl', 'rb'))  # loading the model
+model = pickle.load(open('flight_price_analysis.pkl', 'rb'))  # loading the model
+
+airports = pd.read_csv('airports.csv')
+flights = pd.read_csv('flights.csv')
+
+flights['Duration'] = preprocessing.clean_duration(flights['Duration'])
+flights['Stops'] = flights['Stops'].apply(preprocessing.clean_stops).astype(float).fillna(-1).astype(int)
+flights['Stops'] = flights['Stops'].replace(-1, '')
+flights = preprocessing.clean_company_name(flights)
+flights = preprocessing.clean_date(flights)
+flights = preprocessing.preprocess(flights)
+
+le = LabelEncoder()
+
 
 @app.route('/')
 def home():
-    return render_template('index.html')
+    
+    fig = av.visualize_airports(airports, 
+                                flights, 
+                                metric = np.mean)
+    
+    graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
+    
+    return render_template('index.html', graphJSON = graphJSON)
 
 @app.route('/predict',methods=['POST'])
 def predict():
     """Grabs the input values and uses them to make prediction"""
-    companyname = int(request.form["companyname"])
+    companyname = int(request.form["companyname"])    
+    destination = int(request.form["destination"])
+    date = request.form["date"]
     duration = int(request.form["duration"])
     stops = int(request.form["stops"])
-    destination = int(request.form["destination"])
-    date = int(request.form["date"])
-    dayofweek = int(request.form["dayofweek"])
-    month = int(request.form["month"])
-    prediction = model.predict([[companyname, duration, stops, destination, date, dayofweek, month]])  # this returns a list e.g. [127.20488798], so pick first element [0]
+    
+    #perform preprocessing on destination and date
+    date = datetime.strptime(date, '%Y-%m-%d')
+    dayofweek = date.weekday() + 1
+    month = date.month
+    date = (date - datetime(2023, 6, 1)).days
+    
+    prediction = model.predict([[companyname, 
+                                 duration, 
+                                 stops,
+                                 destination, 
+                                 date, 
+                                 dayofweek, 
+                                 month]])  # this returns a list e.g. [127.20488798], so pick first element [0]
     output = round(prediction[0], 2) 
+    
+    dest_encoding = \
+        {
+            0:'ATL',
+            5:'ORD',
+            6:'SFO',
+            1:'DEN',
+            4:'JFK',
+            3:'HNL',
+            2:'DFW'
+        }
+    
+    print(duration, stops, destination, date)
+    
+    destination = dest_encoding[destination]
+    
+    df = flights[(flights['Duration'] >= duration - 90) & (flights['Duration'] <= duration + 90)]
+    df = df[flights['Stops'] == stops]
+    df = df[flights['Destination'] == destination]
+    df = df[flights['Date'] == date]
+    
+    print(df)
 
-    return render_template('index.html', prediction_text=f'A flight of {duration} min with {stops} stops on your selected date has a predicted cost of ${output}')
+    fig = av.visualize_airports(airports[airports['Destination'] == destination],
+                                df,
+                                metric = np.mean)
+    
+    graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
+    
+
+    return render_template('index.html', 
+                           prediction_text=f'A flight of {duration} min and with {stops} stops has a predicted cost of ${output}',
+                           graphJSON = graphJSON)
   
 if __name__ == "__main__":
-    app.run(port=5000, debug=True)
+    app.run(port=7000)
