@@ -43,7 +43,11 @@
     </div>
 
     <div id='chart' class='chart'”></div>
- 
+
+ {% for table in tables %}
+            {{ table|safe }}
+{% endfor %}
+
 </body>
 
 <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
