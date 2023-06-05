@@ -3,7 +3,9 @@
 <head>
     <meta charset="utf-8">
     <title>Flight Search</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="{{ url_for('static',filename='css/style.css') }}">
+    <script type="text/javascript" 
+     src="{{ url_for('static',filename='script/script.js') }}"></script>
 </head>
 
 <body>
@@ -12,33 +14,25 @@
         <form action="{{ url_for('predict')}}" method="post" class = "info">
             <label for="departure">Departure Airport: LAX</label>
             <br>
-            <!--
+            
             <label for="destination">Destination Airport:</label>
             <select id="destination" name="destination" required>
-                    <option value="HNL">Inouye International Airport, Honolulu</option>
-                    <option value="DEN">Denver International Airport, Colorado</option>
-                    <option value="DFW">Dallas/Fort Worth International Airport, Texas</option>
-                    <option value="SFO">San Francisco International Airport, SF</option>
-                    <option value="JFK">John F. Kennedy International Airport, New York</option>
-                    <option value="ATL">Hartsfield–Jackson Atlanta International Airport, Atlanta</option>
-                    <option value="CHI">O'Hare International Airport, Chicago</option>
+                    <option value="3">Inouye International Airport, Honolulu</option>
+                    <option value="1">Denver International Airport, Colorado</option>
+                    <option value="2">Dallas/Fort Worth International Airport, Texas</option>
+                    <option value="6">San Francisco International Airport, SF</option>
+                    <option value="4">John F. Kennedy International Airport, New York</option>
+                    <option value="0">Hartsfield–Jackson Atlanta International Airport, Atlanta</option>
+                    <option value="5">O'Hare International Airport, Chicago</option>
             </select><br>
             <label for="date">Date:</label>
             <input type="date" id="date" name="date" required><br><br>
-        -->
+        
             <input type="text" name="companyname" placeholder="Company Name (1 to 20)" required="required" />
             <br>
             <input type="text" name="duration" placeholder="Duration (in minutes)" required="required" />
             <br>
             <input type="text" name="stops" placeholder="Stops (0 to 2)" required="required"/>
-            <br>
-            <input type="text" name="destination" placeholder="Destination (0 to 6)" required="required"/>
-            <br>
-            <input type="text" name="date" placeholder="Date (0 to 91)" required="required"/>
-            <br>
-            <input type="text" name="dayofweek" placeholder="Day of the Week (1 to 7)" required="required"/>
-            <br>
-            <input type="text" name="month" placeholder="Month (6 to 8)" required="required"/>
             <br>
             <button type="submit" class="btn btn-primary btn-block btn-large">Submit</button>
             <br>
@@ -47,6 +41,15 @@
 
         <b> {{ prediction_text }} </b>
     </div>
+
+    <div id='chart' class='chart'”></div>
  
 </body>
+
+<script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+<script type='text/javascript'>
+  var graphs = {{graphJSON | safe}};
+  Plotly.plot('chart',graphs,{});
+</script>
+
 </html>
