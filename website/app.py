@@ -86,7 +86,7 @@ def predict():
     df = df[['Price', 'Duration', 'Destination', 'From']]
     
     return render_template('index.html', 
-                           prediction_text=f'Predicted cost: ${output}.',
+                           prediction_text=f'A flight of {duration} min and with {stops} stops has a predicted cost of ${output}.',
                            graphJSON = graphJSON,
                            tables=[df.to_html(classes='data', header='true')],
                            table_text = 'See example ticket prices here: ')
