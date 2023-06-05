@@ -10,7 +10,7 @@ from datetime import datetime
 from sklearn.preprocessing import LabelEncoder
 
 app = Flask(__name__)
-model = pickle.load(open('flight_price_analysis.pkl', 'rb'))  # loading the model
+model = pickle.load(open('model.pkl', 'rb'))  # loading the model
 
 airports = pd.read_csv('airports.csv')
 flights = pd.read_csv('flights.csv')
@@ -52,8 +52,8 @@ def predict():
     date = (date - datetime(2023, 6, 1)).days
     
     prediction = model.predict([[companyname, 
-                                 duration, 
-                                 stops,
+                                 stops, 
+                                 duration,
                                  destination, 
                                  date, 
                                  dayofweek, 
@@ -77,6 +77,7 @@ def predict():
     df = df[flights['Stops'] == stops]
     df = df[flights['Destination'] == destination]
     df = df[flights['Date'] == date]
+    df = df[flights['Company Name'] == companyname]
 
     fig = av.visualize_airports(airports[airports['Destination'] == destination],
                                 df,
@@ -84,10 +85,10 @@ def predict():
     
     graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
     
-
     return render_template('index.html', 
                            prediction_text=f'A flight of {duration} min and with {stops} stops has a predicted cost of ${output}',
-                           graphJSON = graphJSON)
+                           graphJSON = graphJSON,
+                           tables=[df.to_html(classes='data', header='true')])
   
 if __name__ == "__main__":
     app.run(port=7000)
