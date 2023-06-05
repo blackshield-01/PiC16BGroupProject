@@ -7,7 +7,7 @@ import pandas as pd
 import numpy as np
 import preprocessing
 from datetime import datetime
-from sklearn.preprocessing import LabelEncoder
+#from sklearn.preprocessing import LabelEncoder
 
 app = Flask(__name__)
 model = pickle.load(open('model.pkl', 'rb'))  # loading the model
@@ -21,8 +21,6 @@ flights['Stops'] = flights['Stops'].replace(-1, '')
 flights = preprocessing.clean_company_name(flights)
 flights = preprocessing.clean_date(flights)
 flights = preprocessing.preprocess(flights)
-
-le = LabelEncoder()
 
 
 @app.route('/')

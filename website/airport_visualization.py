@@ -1,39 +1,20 @@
 import plotly.express as px
 import pandas as pd
 
-destinations = ['ATL', 'CHI', 'DEN', 'DFW', 'HNL', 'JFK', 'SFO']
+airport_codes = pd.read_csv('airport-codes_csv.csv')
 
-flights = pd.DataFrame()
-for dest in destinations:
-    
-    flights = pd.concat([flights, pd.read_csv(f'flight_LAX_{dest}_data_0601_0831.csv')])
-    
-flights.to_csv('flights.csv', index = False)
-
-airports = pd.read_csv('airport-codes_csv.csv')
-
-
-destinations = set(flights['Destination'])
-destinations.add('LAX')
-
-airports = airports[['name', 'iata_code', 'coordinates']]
-airports = airports.rename({'name' : 'Airport', 
+airport_codes = airport_codes[['name', 'iata_code', 'coordinates']]
+airport_codes = airport_codes.rename({'name' : 'Airport', 
                             'iata_code' : 'Destination'},
                            axis = 1)
 
+airport_codes = airport_codes[airport_codes['Destination'] == 'LAX']
 
-airports = airports[airports['Destination'].isin(destinations)]
+airport_codes['longitude'] = airport_codes['coordinates'].str.split(', ').str[0].astype(float)
+airport_codes['latitude'] = airport_codes['coordinates'].str.split(', ').str[1].astype(float)
 
-
-airports['longitude'] = airports['coordinates'].str.split(', ').str[0].astype(float)
-airports['latitude'] = airports['coordinates'].str.split(', ').str[1].astype(float)
-
-LAX_lon = airports[airports['Destination'] == 'LAX']['longitude'].iloc[0]
-LAX_lat = airports[airports['Destination'] == 'LAX']['latitude'].iloc[0]
-
-airports = airports[airports['Destination'] != 'LAX']
-
-airports.to_csv('airports.csv', index = False)
+LAX_lon = airport_codes[airport_codes['Destination'] == 'LAX']['longitude'].iloc[0]
+LAX_lat = airport_codes[airport_codes['Destination'] == 'LAX']['latitude'].iloc[0]
 
 
 def visualize_airports(airports, flights, metric):
