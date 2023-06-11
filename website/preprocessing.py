@@ -50,6 +50,13 @@ def preprocess(df):
     le = LabelEncoder()
     df['Date'] = le.fit_transform(df['Date'])
     df['Company Name'] = le.fit_transform(df['Company Name'])
+    
+    max_encode = df['Company Name'].max()
+    encodes = le.inverse_transform(np.arange(max_encode))
+    
+    encode_df = pd.DataFrame(encodes, columns = ['Company Name'])
+    encode_df.to_csv('company_encodes.csv')
+    
     return df
 
 def clean_destination(df):

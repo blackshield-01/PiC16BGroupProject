@@ -26,9 +26,14 @@
                     <option value="5">O'Hare International Airport, Chicago</option>
             </select><br>
             <label for="date">Date:</label>
-            <input type="date" id="date" name="date" required><br><br>
+            <input type="date" id="date" name="date" required><br>
         
-            <input type="text" name="companyname" placeholder="Company Name (1 to 20)" required="required" />
+            <label for="companyname">Company Name:</label>
+            <select id="companyname" name="companyname" required>
+                {% for name in names %}
+                    <option value="{{name}}">{{name}}</option>
+                {% endfor %}
+            </select>
             <br>
             <input type="text" name="duration" placeholder="Duration (in minutes)" required="required" />
             <br>
